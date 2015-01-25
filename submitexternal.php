@@ -23,7 +23,7 @@ if(isset($_POST) and $_SERVER['REQUEST_METHOD'] == "POST"){
 }
 $output = null; 
 chdir('pdfreference');
-exec('sudo python full_text_to_summarize.py bioterms.txt');
+exec('sudo python full_text_to_summarize.py biotext.txt');
 exec('sudo python readppt.py', $output, $return); 
 exec('sudo python test.py', $output, $return); 
 
