@@ -1,5 +1,5 @@
 <?php
-$target_dir = "uploads/";
+$target_dir = "pdfreference";
 $target_file = $target_dir . 'transcript.txt';
 $uploadOk = 1;
 $imageFileType = pathinfo($target_file,PATHINFO_EXTENSION);

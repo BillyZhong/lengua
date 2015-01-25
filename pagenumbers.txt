@@ -1,0 +1,6 @@
+actin,1158
+actin,449
+cleavage,762
+cleavage,300
+actin,1118
+actin,449

@@ -5,7 +5,7 @@ import os
 
 names = []
 position = []
-inputpdf = PdfFileReader(open("bio.pdf", "rb"))
+inputpdf = PdfFileReader(open("biopowerpoint.pdf", "rb"))
 
 try:
     os.remove('pptresults.txt')
@@ -22,7 +22,7 @@ for i in xrange(inputpdf.numPages):
 
 for num in names:
     print num
-    cmd = "sudo python pdf2txt.py -o "+num+".txt "+num+".pdf"
+    cmd = "python pdf2txt.py -o "+num+".txt "+num+".pdf"
     # no block, it start a sub process.
     p = subprocess.Popen(cmd , shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     # and you can block util the cmd execute finish
@@ -30,7 +30,7 @@ for num in names:
     # or stdout, stderr = p.communicate()
 
 for num in names:
-    logfile = open("bioterms.txt", "r").readlines()
+    logfile = open("keywords.txt", "r").readlines()
     counterline = list()
     counter = 0
     outp = []

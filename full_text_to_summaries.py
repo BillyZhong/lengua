@@ -19,6 +19,10 @@ import pickle
 import sys
 
 
+
+##writing log to text file
+sys.stdout = open('summaries.txt', 'w+')
+
 # In[114]:
 
 ##returns topics from a body of text
@@ -26,7 +30,7 @@ def return_topics(filename, num_topics):
     documents = open(filename)
 
     # remove common words and tokenize
-    stoplist = set('for a of the so been its their our all them -- with each without th there however basic but by and to on would an is if us can they are or it have we you any very it first just your do this at from who that had here not was after out not which be were as what in'.split())
+    stoplist = set('for a of the so been its called their our all them -- with each without th there however basic but by and to on would an is if us can they are or it have we you any very it first just your do this at from who that had here not was after out not which be were as what in'.split())
     texts = [[word for word in document.lower().split() if word not in stoplist]
              for document in documents]
 
@@ -68,15 +72,17 @@ import os
 # In[116]:
 
 def google_keyword_search(keyword):
-    SEARCH_ENGINE_ID = ('016858905314894302733:tgccnmghyju')                        
-    API_KEY = ('AIzaSyCdxszOvSKowRZfOxHWBe1ccigjR35t73k ')
+    SEARCH_ENGINE_ID = ('015692270860399792306:km3y9x8-v_k')                        
+    API_KEY = ('AIzaSyCTBau0iONc4U6vk1-LRBX0Ep-n0PF4MtA')
 
     api = GoogleCustomSearch(SEARCH_ENGINE_ID, API_KEY)
     
     links = []
+    titles = []
     for result in api.search(keyword):
+        titles.append((result['title']))
         links.append((result['link']))
-    return links
+    return links, titles
 
 
 # In[117]:
@@ -87,35 +93,6 @@ from bs4 import BeautifulSoup
 
 
 # In[118]:
-
-def strip_html(url):
-    html = urllib.urlopen(url).read()
-    soup = BeautifulSoup(html)
-
-    # kill all script and style elements
-    for script in soup(["script", "style"]):
-        script.extract()    # rip it out
-
-    # get text
-    text = soup.get_text()
-
-    # break into lines and remove leading and trailing space on each
-    lines = (line.strip() for line in text.splitlines())
-    # break multi-headlines into a line each
-    chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
-    # drop blank lines
-    text = '\n'.join(chunk for chunk in chunks if chunk)
-    
-    
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-    '''
-    fp = open("test.txt")
-    data = fp.read()
-    '''
-    text = '\n-----\n'.join(tokenizer.tokenize(text.strip()))
-
-    return text
-
 
 # In[118]:
 
@@ -157,7 +134,6 @@ def summarize_url_best(url, sentences):
 
 # In[131]:
 
-import summarize
 import nltk
 
 
@@ -174,39 +150,43 @@ def summarize_url(url, sentences):
 def main(filename, num_topics=5, num_sentences_for_each_resource=2):
     #### First get the topics from the text file, 5 topics
     doc_topics = return_topics(filename, num_topics)
-    print ("The main topics we were able to extract out of this article were")
-    print (doc_topics)
-    print ('\n')
+    #print ("The main topics we were able to extract out of this article were")
+
+    keywords_files = open("keywords.txt", "w+")##keywords.txt for the keywords
+    for top in doc_topics:
+        keywords_files.write(top)
+        keywords_files.write('\n')
+    keywords_files.close()
+
+    #print (doc_topics)
+    #print ('\n')
 
     #### Next we search google for the first 2 topics
     summary_links = []
+    summary_titles = []
     for item in doc_topics[:2]:
-        topic = google_keyword_search(item)
+        topic, titles = google_keyword_search(item)
         summary_links.append(topic[0])
         summary_links.append(topic[1])##append first and second link from that topic
+        summary_titles.append(titles[0])
+        summary_titles.append(titles[1])##append first and second link from that topic
 
     ##then we summarize those url items
 
-    print ('Associated resources to your topics and their summaries are listed below\n')
-    for link in summary_links:
+    #print ('Associated resources to your topics and their summaries are listed below\n')
+    for link, title in zip(summary_links, summary_titles):
+        print (title)
         print (link)
-        summarize_url_best(link, num_sentences_for_each_resource)##2 sentences for each resource
         print ('\n')
+        try: 
+            summarize_url_best(link, num_sentences_for_each_resource)##2 sentences for each resource
+            print ('\n\n')
+        except:
+            print ('\n\n')
+            continue
 
 
 if __name__ == "__main__":
-    main(sys.argv)
-# In[158]:
-
-
-
-
-# In[158]:
-
-
-
-
-# In[ ]:
-
+    sys.exit(main(sys.argv[1]))
 
 

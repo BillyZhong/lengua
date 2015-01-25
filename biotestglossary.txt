@@ -1,0 +1,3979 @@
+1496 INDEX
+
+INDEX
+
+Symbols
+3' UTR, 443, 449
+40S ribosomal subunit, 444
+5' cap, 443, 449
+5' UTR, 443, 449
+60S ribosomal subunit, 444
+7-methylguanosine cap,
+416, 425
+α-helix, 96
+β-pleated sheet, 96
+
+A
+A horizon, 911, 920
+Abduction, 1143
+abduction, 1158
+abiotic, 1321, 1348
+aboveground biomass,
+1328, 1348
+abscisic acid, 894
+abscisic acid (ABA), 897
+abscission, 893, 897
+absorption spectrum, 237,
+247
+abstract, 22, 34
+abyssal zone, 1337, 1348
+Acanthostega, 825, 851
+accessory fruit, 950
+Accessory fruits, 943
+acclimatization, 974, 977
+acellular, 557, 579
+acetyl CoA, 208, 225
+acetylcholine, 1041, 1050
+acetylcholinesterase, 1156,
+1158
+acid, 58, 67
+Acid rain, 1428
+acid rain, 1429
+acidophile, 613
+acoelomate, 762
+acoelomates, 750
+acromegaly, 1105, 1116
+acrosomal reaction, 1310
+acrosomal reactions, 1303
+Actin, 1150
+actin, 1158
+Actinopterygii, 824, 851
+action potential, 1024, 1050
+activation energy, 183, 197
+activator, 449
+activators, 432
+active site, 190, 197
+Active transport, 161
+active transport, 170
+acute disease, 568, 579
+
+adaptation, 489, 506
+adaptive evolution, 521, 527
+Adaptive immunity, 1251
+adaptive immunity, 1273
+adaptive radiation, 497,
+506, 1434, 1460
+Addison’s disease, 1106,
+1116
+Adduction, 1143
+adduction, 1158
+adenosine triphosphate,
+187
+adenylate cyclase, 1116
+adenylyl cyclase, 1096
+adhesion, 57, 67
+adrenal cortex, 1111, 1116
+adrenal gland, 1116
+adrenal glands, 1111
+adrenal medulla, 1112, 1116
+adrenocorticotropic
+hormone (ACTH), 1106,
+1116
+Adventitious, 703
+adventitious, 709
+adventitious root, 897
+adventitious roots, 869
+aerobic respiration, 208,
+225
+afferent arteriole, 1225,
+1237
+affinities, 1268
+affinity, 1273
+Age structure, 1373
+age structure, 1397
+aggregate fruit, 943, 950
+aggressive display, 1397
+Aggressive displays, 1390
+aldosterone, 1097, 1116
+aleurone, 941, 950
+algal bloom, 1340, 1348
+alimentary canal, 983, 1007
+aliphatic hydrocarbon, 67
+aliphatic hydrocarbons, 61
+alkaliphile, 613
+allantois, 830, 851
+allele, 353
+allele frequency, 513, 527
+alleles, 332
+allergy, 1270, 1273
+Allopatric speciation, 496
+allopatric speciation, 506
+allopolyploid, 499, 506
+allosteric inhibition, 193,
+197
+alpha cell, 1116
+alpha cells, 1112
+alpha-helix structure (α-
+helix), 105
+alteration, 974, 977
+
+alternation of generations,
+318, 321
+alveolar duct, 1188
+alveolar ducts, 1170
+, 1188
+alveolar PO2
+, 1176
+alveolar PO2
+alveolar sac, 1188
+alveolar sacs, 1171
+alveolar ventilation, 1181,
+1188
+alveoli, 1171
+alveolus, 1188
+Alzheimer’s disease, 1044,
+1050
+amino acid, 105
+amino acid-derived
+hormone, 1116
+amino acid-derived
+hormones, 1092
+Amino acids, 92
+aminoacyl tRNA synthetase,
+425
+aminoacyl tRNA
+synthetases, 421
+aminopeptidase, 1001,
+1007
+ammonia, 1231, 1237
+ammonification, 601, 613
+ammonotelic, 1231, 1237
+amnion, 830, 851
+amniote, 851
+amoebocyte, 810
+amoebocytes, 769
+Amphiarthroses, 1143
+amphiarthrosis, 1158
+Amphibia, 825, 851
+amphiphilic, 147, 170
+ampulla of Lorenzini, 851
+ampullae of Lorenzini, 823
+amygdala, 1038, 1050
+Amyloplasts, 892
+Anabolic, 178
+anabolic, 197
+anaerobic, 206, 225, 585,
+613
+anaerobic cellular
+respiration, 216, 225
+analogy, 538, 551
+analytical model, 1410,
+1429
+anaphase, 286, 300
+anapsid, 851
+Anapsids, 831
+Anatomical dead space,
+1183
+anatomical dead space,
+1188
+androecium, 924, 950
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+INDEX 1497
+
+androgen, 1116
+androgens, 1098
+aneuploid, 367, 374
+aneuploidy, 506
+angina, 1206, 1214
+Angiotensin converting
+enzyme (ACE), 1235
+angiotensin converting
+enzyme (ACE), 1237
+angiotensin I, 1235, 1237
+angiotensin II, 1235, 1237
+angular movement, 1158
+Angular movements, 1143
+anion, 67
+Anions, 49
+Annelida, 793, 810
+anoxic, 585, 613
+antenna protein, 247
+antenna proteins, 239
+anterior pituitary, 1109, 1116
+anther, 725, 737
+antheridium, 688, 709
+Anthophyta, 727, 737
+anthropoid, 851
+Anthropoids, 844
+anti-diuretic hormone
+(ADH), 1235, 1237
+antibiotic, 605, 613
+antibiotic resistance, 460,
+478
+antibody, 1265, 1273
+anticodon, 419, 425
+antidiuretic hormone (ADH),
+1097, 1116
+antigen, 1251, 1273
+antigen-presenting cell
+(APC), 1251, 1273
+antioxidant, 1234, 1237
+antipodal, 929
+antipodals, 950
+antiporter, 162, 170
+Anura, 826, 851
+anus, 992, 1007
+aorta, 1204, 1214
+apex consumer, 1429
+apex consumers, 1405
+aphotic zone, 1335, 1348
+apical bud, 860, 897
+apical meristem, 897
+Apical meristems, 859
+apocrine gland, 851
+Apocrine glands, 841
+Apoda, 826, 851
+apodeme, 977
+apodemes, 957
+apomixis, 945, 950
+apoptosis, 267, 273
+aposematic coloration,
+1378, 1397
+
+appendicular skeleton,
+1129, 1158
+applied science, 21, 34
+Appositional growth, 1139
+appositional growth, 1158
+aquaporin, 170
+Aquaporins, 156
+arachnoid mater, 1033,
+1050
+arbuscular mycorrhiza, 670,
+680
+arbuscular mycorrhizae,
+668
+Arbuscular mycorrhizae,
+680
+Archaeopteryx, 839, 851
+archegonia, 688
+archegonium, 709
+archenteron, 806, 810
+archosaur, 851
+archosaurs, 831
+arcuate arteries, 1224
+arcuate artery, 1237
+aromatic hydrocarbon, 67
+aromatic hydrocarbons, 61
+Arteries, 1208
+arteriole, 1214
+arterioles, 1208
+artery, 1214
+Arthropoda, 800, 810
+articulation, 1131, 1141,
+1158
+ascending limb, 1237
+ascending limbs, 1225
+ascocarp, 663, 680
+Ascomycota, 662, 680
+ascus, 662
+Asexual reproduction, 1280
+asexual reproduction, 1310
+Assimilation, 1414
+assimilation, 1429
+assortative mating, 520, 527
+astrocyte, 1050
+Astrocytes, 1020
+Asymmetrical, 956
+asymmetrical, 977
+asymptomatic disease, 579
+asymptomatic infection, 568
+Atherosclerosis, 1206
+atherosclerosis, 1214
+atom, 26, 34, 40, 67
+atomic mass, 41, 67
+atomic number, 41, 67
+ATP, 187, 197
+ATP synthase, 225
+atria, 1197
+atrial natriuretic peptide
+(ANP), 1114, 1116
+atrioventricular valve, 1204,
+1214
+
+atrium, 1214
+attention deficit hyperactivity
+disorder (ADHD), 1050
+attention deficit/hyperactivity
+disorder (ADHD), 1047
+attenuating, 571
+attenuation, 579
+Audition, 1071
+audition, 1084
+auditory ossicle, 1158
+auditory ossicles, 1127
+Australopithecus, 846, 851
+Autism spectrum disorder
+(ASD), 1046
+autism spectrum disorder
+(ASD), 1050
+autoantibodies, 1271
+autoantibody, 1273
+autocrine signal, 273
+Autocrine signals, 254
+autoimmune response,
+1258, 1273
+Autoimmunity, 1271
+autoimmunity, 1273
+autoinducer, 273
+Autoinducers, 269
+autonomic nervous system,
+1039, 1050
+autopolyploid, 506
+autopolyploidy, 499
+autosome, 374
+autosomes, 339, 353, 365
+auxin, 897
+Auxins, 893
+avidity, 1269, 1273
+axial skeleton, 1126, 1158
+axillary bud, 860, 897
+axon, 1016, 1050
+axon hillock, 1016, 1050
+axon terminal, 1050
+axon terminals, 1016
+AZT, 565, 579
+
+B
+B cell, 1273
+B cells, 1248
+B horizon, 920
+back mutation, 579
+back mutations, 571
+bacteriophage, 579
+Bacteriophages, 566
+balanced chemical
+equation, 48, 67
+ball-and-socket joint, 1158
+Ball-and-socket joints, 1148
+Barcoding, 736
+barcoding, 737
+bark, 863, 897
+
+1498 INDEX
+
+Basal angiosperms, 727
+basal angiosperms, 737
+basal ganglia, 1037, 1050
+basal metabolic rate (BMR),
+958, 977
+basal nuclei, 1037, 1050
+basal taxon, 532, 551
+base, 58, 67
+Basic science, 21
+basic science, 34
+basidia, 665
+basidiocarp, 666, 680
+Basidiomycota, 665, 680
+basidium, 665, 680
+basilar membrane, 1073,
+1084
+basophil, 1247, 1273
+Batesian mimicry, 1378,
+1397
+bedrock, 911, 920
+Behavior, 1387
+behavior, 1397
+Behavioral biology, 1387
+behavioral biology, 1397
+Behavioral isolation, 501
+behavioral isolation, 506
+benthic realm, 1335, 1348
+beta cell, 1116
+beta cells, 1112
+beta-pleated sheet (β-
+pleated), 105
+bicarbonate (HCO3
+1188
+bicarbonate buffer system,
+1186, 1188
+bicarbonate ions (HCO3
+1186
+bicuspid valve, 1204, 1214
+Bilateral symmetry, 748
+bilateral symmetry, 762
+Bile, 991
+bile, 1007
+binary (prokaryotic) fission,
+297
+binary fission, 300
+binomial nomenclature, 535,
+551
+biochemistry, 32, 34
+biodiversity, 1434, 1460
+biodiversity hotspot, 1460
+Biodiversity hotspots, 1438
+bioenergetics, 176, 197
+biofilm, 588, 613
+biogeochemical cycle, 1417,
+1429
+Biogeography, 1322
+biogeography, 1348
+biological carbon pump,
+636, 649
+
+− ) ion,
+
+− ) ,
+
+biological macromolecule,
+105
+biological macromolecules,
+74
+Biological nitrogen fixation,
+608
+biological nitrogen fixation,
+613
+biology, 14, 34
+bioluminescence, 632, 649
+Biomagnification, 1416
+biomagnification, 1429
+biomarker, 477, 478
+Biomass, 1413
+biomass, 1429
+biome, 1348
+biomes, 1322
+bioremediation, 610, 613
+biosphere, 28, 34
+Biotechnology, 456
+biotechnology, 478, 609,
+613
+biotic, 1321, 1348
+biotic potential (rmax), 1397
+biotic potential, or rmax,
+1364
+bipolar neuron, 1084
+bipolar neurons, 1067
+biramous, 803, 810
+birth rate (B), 1363, 1397
+Black Death, 602, 613
+blastocyst, 1304, 1310
+blastopore, 751, 762
+blastula, 744, 762
+blending theory of
+inheritance, 326, 353
+Blood pressure (BP), 1209
+blood pressure (BP), 1214
+blood urea nitrogen, 1232
+blood urea nitrogen (BUN),
+1237
+blotting, 460
+body plan, 742, 762
+bolus, 988, 1007
+Bone, 1134
+bone, 1158
+Bone remodeling, 1140
+bone remodeling, 1158
+botany, 33, 34
+bottleneck effect, 518, 527
+botulism, 606, 613
+Bowman's capsule, 1225,
+1237
+brachiation, 844, 851
+brainstem, 1038, 1050
+branch point, 532, 551
+bronchi, 1170
+bronchiole, 1188
+bronchioles, 1170
+
+bronchus, 1188
+Brumation, 832
+brumation, 851
+budding, 564, 579, 1310
+Budding, 1281
+buffer, 67
+Buffers, 59
+bulb, 867, 897
+bulbourethral gland, 1287,
+1310
+Bush meat, 1450
+bush meat, 1460
+B horizon, 911
+
+C
+C horizon, 911, 920
+CA-MRSA, 605, 613
+CAAT box, 413, 425
+caecilian, 851
+caecilians, 828
+Calcification, 1134
+calcification, 1158
+calcitonin, 1104, 1116
+calorie, 55, 67
+Calvin cycle, 242, 247
+calyces, 1224
+calyx, 724, 737, 1237
+Cambrian explosion, 757,
+762
+camouflage, 1377, 1397
+cAMP-dependent kinase (A-
+kinase), 264
+canaliculi, 967
+canaliculus, 977
+candela, 1077, 1084
+canopy, 1329, 1348
+capillaries, 1208
+capillary, 1214
+capillary action, 57, 67
+capillary bed, 1214
+Capillary beds, 1208
+capsid, 557, 579
+capsomere, 579
+capsomeres, 557
+capsule, 591, 613, 698, 709
+captacula, 810
+captaculae, 792
+carbaminohemoglobin,
+1186, 1188
+carbohydrate, 105
+Carbohydrates, 75
+carbon, 243
+carbon fixation, 247
+Carbonic anhydrase (CA),
+1186
+carbonic anhydrase (CA),
+1188
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+INDEX 1499
+
+carboxypeptidase, 1001,
+1007
+cardiac cycle, 1206, 1214
+cardiac muscle, 1158
+Cardiac muscle tissue, 1150
+cardiac output, 1214
+cardiomyocyte, 1214
+Cardiomyocytes, 1206
+carnivore, 1007
+Carnivores, 982
+carotenoid, 247
+carotenoids, 237
+carpel, 725, 737
+carpus, 1131, 1158
+carrier protein, 157, 170
+carrying capacity (K), 1397
+carrying capacity, or K,
+1364
+Cartilage, 966
+cartilage, 977
+cartilaginous joint, 1158
+Cartilaginous joints, 1142
+Casineria, 833
+Casparian strip, 871, 897
+catabolic, 178, 197
+catabolite activator protein
+(CAP), 434, 449
+Catarrhini, 844, 851
+cation, 67
+Cations, 49
+caveolin, 167, 170
+cDNA library, 478
+cell, 27, 34
+cell cycle, 279, 283, 300
+cell cycle checkpoint, 300
+cell cycle checkpoints, 290
+cell necrosis, 569, 579
+cell plate, 287, 300
+cell theory, 140
+cell wall, 124, 140
+cell-mediated immune
+response, 1251, 1273
+cell-surface receptor, 273
+Cell-surface receptors, 255
+cellular cloning, 462, 478
+Cellulose, 81
+cellulose, 105
+centimorgan (cM), 374
+centimorgans (cM), 363
+Central Dogma, 404, 425
+central vacuole, 126, 140
+centriole, 300
+centrioles, 284
+centromere, 282, 300
+centrosome, 124, 140
+cephalic phase, 1005, 1007
+Cephalochordata, 818, 851
+cephalothorax, 804, 810
+cerebellum, 1038, 1050
+cerebral cortex, 1034, 1050
+
+cerebrospinal fluid (CSF),
+1033, 1050
+chain termination method,
+478
+channel, 1340, 1348
+channel protein, 170
+Channel proteins, 156
+chaperone, 105
+chaperones, 99
+charophyte, 709
+Charophytes, 686
+chelicera, 810
+chelicerae, 805
+chemical bond, 67
+chemical bonds, 48
+chemical diversity, 1435,
+1460
+chemical energy, 180, 197
+chemical reaction, 67
+Chemical reactions, 48
+chemical reactivity, 44, 67
+chemical synapse, 273
+chemical synapses, 253
+Chemiosmosis, 205
+chemiosmosis, 225
+chemoautotroph, 247, 1429
+chemoautotrophs, 230
+Chemoautotrophs, 1413
+chemotroph, 613
+Chemotrophs, 599
+chiasmata, 309, 321
+chitin, 82, 105
+chloride shift, 1186, 1188
+chlorophyll, 125, 140
+Chlorophyll a, 237
+chlorophyll a, 247
+chlorophyll b, 237, 247
+chloroplast, 140, 232, 247
+Chloroplasts, 125
+choanocyte, 810
+Choanocytes, 768
+cholecystokinin, 1006, 1007
+Chondrichthyes, 822, 851
+chondrocyte, 977
+chondrocytes, 966
+Chordata, 809, 810, 816,
+851
+chorion, 830, 851
+choroid plexus, 1033, 1050
+chromatid, 300
+chromatids, 282
+chromatin, 121, 140
+chromophore, 889, 897
+Chromosomal Theory of
+Inheritance, 360, 374
+chromosome, 140
+chromosome inversion, 371,
+374
+Chromosomes, 121
+chromosomes, 281
+
+chronic infection, 579
+chronic infections, 568
+chylomicron, 1007
+chylomicrons, 1002
+chyme, 990, 1007
+chymotrypsin, 1000, 1007
+Chytridiomycetes, 660
+chytridiomycosis, 1451,
+1460
+Chytridiomycota, 680
+cilia, 134
+cilium, 140
+cingulate gyrus, 1038, 1050
+circadian, 1083, 1084
+Circumduction, 1143
+circumduction, 1158
+cis-acting element, 440, 449
+citric acid cycle, 209, 225
+cladistics, 540, 551
+class, 534, 551
+classical conditioning, 1394,
+1397
+Clathrates, 1345
+clathrates, 1348
+clathrin, 166, 170
+clavicle, 1158
+clavicles, 1130
+clay, 910, 920
+cleavage, 744, 751, 762
+cleavage furrow, 286, 300
+Climate, 1342
+climate, 1348
+climax community, 1387,
+1397
+cline, 521, 527
+clitellum, 793, 810
+clitoris, 1288, 1310
+cloaca, 1285, 1310
+clonal selection, 1255, 1273
+clone, 478
+closed circulatory system,
+1194, 1214
+club mosses, 700, 709
+Cnidaria, 772, 810
+cnidocyte, 810
+cnidocytes, 772
+cochlea, 1073, 1084
+codominance, 337, 353
+codon, 425
+codons, 405
+coelom, 750, 762
+coenocytic hypha, 680
+coenocytic hyphae, 657
+coenzyme, 197
+coenzymes, 194
+cofactor, 197
+cofactors, 194
+cognitive learning, 1395,
+1397
+cohesin, 308, 321
+
+1500 INDEX
+
+cohesion, 56, 67
+coleoptile, 942, 950
+coleorhiza, 942, 950
+colinear, 404, 425
+collenchyma cell, 897
+Collenchyma cells, 861
+colloid, 1110, 1116
+columnar epithelia, 977
+Columnar epithelial, 963
+commensal, 1380
+Commensalism, 674
+commensalism, 680, 1397
+community, 28, 34
+Compact bone, 1136
+compact bone, 1158
+companion cell, 897
+Companion cells, 865
+competitive exclusion
+principle, 1379, 1397
+competitive inhibition, 192,
+197
+complement system, 1249,
+1273
+complementary DNA
+(cDNA) libraries, 468
+compliance, 1182, 1188
+compound, 67
+compound leaf, 874, 897
+compounds, 49
+concentration gradient, 153,
+170
+conceptual model, 1410,
+1429
+conclusion, 23, 34
+condensin, 286, 300
+conditioned behavior, 1397
+Conditioned behaviors,
+1394
+condyloid joint, 1158
+Condyloid joints, 1147
+cone, 1084
+cones, 1078
+conifer, 737
+Conifers, 721
+conispiral, 789, 810
+conjugation, 597, 613
+connective tissue, 977
+Connective tissues, 965
+consensus, 409, 425
+conspecifics, 1320, 1348
+contig, 471, 478
+Continuous variation, 326
+continuous variation, 353
+contour feather, 851
+Contour feathers, 837
+contraception, 1301, 1310
+contractile vacuole, 649
+contractile vacuoles, 633
+control, 34
+control group, 17
+
+convergent evolution, 490,
+506
+coral reef, 1348
+Coral reefs, 1337
+core enzyme, 408, 425
+corm, 897
+Corms, 867
+cornea, 1078, 1084
+corolla, 725, 737
+corona, 783, 810
+coronary arteries, 1206
+coronary artery, 1214
+coronary vein, 1214
+coronary veins, 1206
+corpus callosum, 1034,
+1050
+cortex, 865, 897, 1223
+cortex (animal), 1237
+Cortical, 1224
+cortical nephron, 1237
+cortical nephrons, 1224
+cortical radiate artery, 1237
+corticosteroid, 1116
+corticosteroids, 1106
+cortisol, 1106, 1116
+cotyledon, 737, 950
+cotyledons, 727, 939
+countercurrent exchanger,
+1228, 1237
+countercurrent multiplier,
+1228, 1237
+courtship display, 1397
+Courtship displays, 1390
+covalent bond, 67
+covalent bonds, 50
+coxal bone, 1158
+coxal bones, 1131
+cranial bone, 1158
+cranial bones, 1126
+cranial nerve, 1050
+cranial nerves, 1042
+Craniata, 819, 851
+cranium, 819, 851
+Crocodilia, 834, 851
+crop, 737
+crops, 733
+Cross reactivity, 1269
+cross reactivity, 1273
+Cross-pollination, 933
+cross-pollination, 950
+crossover, 309, 321
+Cryogenian period, 757,
+762
+cryptochrome, 897
+Cryptochromes, 892
+cryptofauna, 1338, 1348
+ctenidia, 788
+ctenidium, 810
+cuboidal epithelia, 977
+Cuboidal epithelial, 962
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+Cushing’s disease, 1106,
+1116
+cutaneous respiration, 825,
+851
+cuticle, 875, 886, 897
+cuticle (animal), 810
+cutting, 950
+cuttings, 947
+cyanobacteria, 585, 613
+cycad, 737
+Cycads, 722
+cyclic AMP (cAMP), 264,
+273
+cyclic AMP-dependent
+kinase, 273
+cyclin, 300
+cyclin-dependent kinase,
+300
+cyclin-dependent kinases,
+291
+cyclins, 291
+cypris, 804, 810
+cytochrome complex, 240,
+247
+Cytogenetic mapping, 468
+cytogenetic mapping, 478
+cytokine, 1246, 1273
+Cytokinesis, 286
+cytokinesis, 300
+cytokinin, 893, 897
+cytopathic, 564, 579
+cytoplasm, 120, 140
+cytoplasmic streaming, 638,
+649
+cytoskeleton, 131, 140
+cytosol, 120, 140
+cytotoxic T lymphocyte
+(CTL), 1273
+cytotoxic T lymphocytes
+(CTLs), 1253
+
+D
+dead space, 1183, 1188
+dead zone, 1425, 1429
+death rate (D), 1363, 1397
+decomposer, 613
+decomposers, 600
+Deductive reasoning, 16
+deductive reasoning, 34
+degeneracy, 425
+degenerate, 405
+dehydration synthesis, 74,
+105
+demographic-based
+models, 1371
+demographic-based
+population model, 1397
+demography, 1354, 1397
+
+INDEX 1501
+
+denaturation, 91, 105
+denature, 191, 197
+dendrite, 1050
+Dendrites, 1016
+dendritic cell, 1273
+Dendritic cells, 1251
+denitrification, 601, 613
+density-dependent, 1367
+density-dependent
+regulation, 1397
+density-independent, 1367
+density-independent
+regulation, 1397
+dentary, 841, 852
+deoxynucleotide, 470, 478
+deoxyribonucleic acid
+(DNA), 100, 105
+dephosphorylation, 204,
+225
+depolarization, 1024, 1050
+Depression, 1144
+depression, 1158
+Dermal tissue, 859
+dermal tissue, 897
+descending, 1225
+descending limb, 1237
+Descriptive (or discovery)
+science, 16
+descriptive science, 34
+desmosome, 140
+desmosomes, 138
+determinate cleavage, 752,
+762
+detrital food web, 1408,
+1429
+Deuteromycota, 667, 680
+deuterostome, 762
+Deuterostomes, 751
+diabetes insipidus, 1097,
+1116
+diabetes mellitus, 1101,
+1116
+diabetogenic effect, 1104,
+1116
+diacylglycerol (DAG), 264,
+273
+diaphragm, 1170, 1188
+diaphysis, 1134, 1158
+diapsid, 852
+diapsids, 831
+Diarthroses, 1143
+diarthrosis, 1158
+diastole, 1206, 1214
+dicer, 443, 449
+dicot, 737
+dicots, 727
+dideoxynucleotide, 478
+dideoxynucleotides, 470
+Diffusion, 154
+diffusion, 170
+
+Digestion, 999
+digestion, 1007
+dihybrid, 345, 353
+dimer, 261, 273
+dimerization, 261, 273
+dioecious, 719, 737
+dipeptidase, 1001, 1007
+diphyodont, 852
+diphyodonts, 841
+diploblast, 762
+diploblasts, 749
+diploid, 280, 300
+diploid-dominant, 318, 321
+diplontic, 709
+directional selection, 522,
+527
+disaccharide, 105
+Disaccharides, 78
+discontinuous variation,
+326, 353
+discussion, 23, 34
+Dispersal, 497
+dispersal, 506
+dissociation, 56, 67
+distal convoluted tubule
+(DCT), 1225, 1237
+distraction display, 1397
+Distraction displays, 1390
+divergent evolution, 490,
+506
+diversifying selection, 522,
+527
+DNA barcoding, 1454, 1460
+DNA methylation, 449
+DNA microarray, 478
+DNA microarrays, 472
+dominant, 353
+dominant lethal, 343, 353
+Dominant traits, 329
+dormancy, 942, 950
+dorsal cavity, 960, 977
+dorsal hollow nerve cord,
+817, 852
+Dorsiflexion, 1144
+dorsiflexion, 1159
+double circulation, 1197,
+1214
+double fertilization, 938, 950
+down feather, 852
+down feathers, 837
+down-regulation, 1094, 1116
+downstream, 408, 425
+duodenum, 991, 1007
+dura mater, 1033, 1050
+
+E
+eccrine gland, 852
+Eccrine glands, 841
+
+Ecdysozoa, 754, 762
+Echinodermata, 807, 810
+ecological pyramid, 1429
+Ecological pyramids, 1415
+Ecology, 1318
+ecology, 1348
+ecosystem, 28, 34, 1404,
+1429
+ecosystem diversity, 1435,
+1460
+ecosystem dynamics, 1410,
+1429
+ecosystem services, 1340,
+1348
+ectomycorrhiza, 680
+Ectomycorrhizae, 670, 680
+ectotherm, 977
+ectothermic, 958
+Ediacaran period, 756, 762
+effector cell, 1273
+effector cells, 1257
+efferent arteriole, 1225,
+1237
+elastase, 1000, 1007
+elastic recoil, 1180, 1188
+elastic work, 1182, 1188
+electrocardiogram (ECG),
+1207, 1214
+electrochemical gradient,
+161, 170
+electrogenic pump, 164,
+170
+electrolyte, 67, 1220, 1237
+electrolytes, 50
+electromagnetic spectrum,
+235, 247
+electron, 68
+electron configuration, 47,
+67
+electron microscope, 140
+electron microscopes, 113
+electron orbital, 67
+electron orbitals, 46
+electron transfer, 49, 67
+electron transport chain,
+240, 247
+electronegativity, 51, 68
+Electrons, 41
+electrophoresis, 384, 399
+element, 68
+Elements, 40
+Elevation, 1144
+elevation, 1159
+embryophyte, 709
+embryophytes, 688
+Emergent vegetation, 1341
+emergent vegetation, 1348
+emerging disease, 603, 613
+Emsleyan/Mertensian
+mimicry, 1378, 1397
+
+1502 INDEX
+
+Enantiomers, 64
+enantiomers, 68
+Enantiornithes, 839, 852
+endemic, 1322, 1348
+endemic disease, 602, 613
+Endemic species, 1436
+endemic species, 1460
+endergonic, 197
+endergonic reactions, 181
+endocardium, 1205, 1214
+endocarp, 943, 950
+Endochondral ossification,
+1139
+endochondral ossification,
+1159
+endocrine, 1006
+endocrine cell, 273
+endocrine cells, 254
+endocrine gland, 1116
+endocrine glands, 1115
+endocrine signal, 273
+endocrine signals, 254
+endocrine system, 1007
+Endocytosis, 165
+endocytosis, 170
+endodermis, 871, 897
+endomembrane system,
+140
+endoplasmic reticulum (ER),
+127, 140
+endoskeleton, 1125, 1159
+endosperm, 938, 950
+endospermic dicot, 950
+endospermic dicots, 941
+endosymbiosis, 621, 649
+endosymbiotic theory, 621,
+649
+endotherm, 958, 977
+energy budget, 1359, 1398
+enhancer, 449
+enhancers, 440
+enterocoelom, 806, 810
+enterocoely, 751, 762
+enthalpy, 181, 197
+entropy, 186
+entropy (S), 197
+envelope, 557, 579
+environmental disturbance,
+1398
+environmental disturbances,
+1386
+enzyme, 105
+enzyme-linked receptor, 273
+Enzyme-linked receptors,
+258
+Enzymes, 91
+eosinophil, 1247, 1273
+Ependymal, 1020
+ependymal, 1051
+epicardium, 1206, 1214
+
+epicotyl, 941, 950
+epidemic, 602, 613
+epidermis, 774, 810, 863,
+897
+epigenetic, 430, 449
+epilepsy, 1049, 1051
+epinephrine, 1106, 1116
+epiphyseal plate, 1139,
+1159
+epiphyses, 1134
+epiphysis, 1159
+epiphyte, 918, 920
+epistasis, 350, 353
+epithelial tissue, 977
+Epithelial tissues, 961
+epitope, 1273
+epitopes, 1253
+equilibrium, 49, 68, 1429
+Equilibrium, 1405
+Erythropoietin (EPO), 1115
+erythropoietin (EPO), 1116
+esophagus, 988, 1007
+essential, 906
+essential nutrient, 1007
+essential nutrients, 994
+estivation, 959, 977
+estrogen, 1092, 1310
+Estrogen, 1293
+Estrogens, 1119
+estrogens, 1117
+Estuaries, 1339
+estuary, 1348
+ethology, 1387, 1398
+Ethylene, 894
+ethylene, 897
+eucoelomate, 762
+eucoelomates, 750
+eukaryote, 34
+eukaryote-first, 547
+eukaryote-first hypothesis,
+551
+eukaryotes, 27
+eukaryotic cell, 140
+eukaryotic cells, 118
+eukaryotic initiation factor-2
+(eIF-2), 444, 449
+Eumetazoa, 753, 762
+euploid, 367, 374
+eutherian mammal, 852
+Eutherian mammals, 843
+eutrophication, 1423, 1429
+evaporation, 55, 68
+Eversion, 1144
+eversion, 1159
+evolution, 30, 34
+evolutionary (Darwinian)
+fitness, 521
+evolutionary fitness, 527
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+excitatory postsynaptic
+potential (EPSP), 1028,
+1051
+exergonic, 197
+exergonic reactions, 181
+exine, 929, 950
+exocarp, 943, 950
+Exocytosis, 168
+exocytosis, 170
+exon, 425
+exons, 417
+exoskeleton, 1124, 1159
+Exotic species, 1450
+exotic species, 1460
+expiratory reserve volume
+(ERV), 1174, 1188
+exponential growth, 1363,
+1398
+expressed sequence tag
+(EST), 468, 478
+extant, 690, 709
+Extension, 1143
+extension, 1159
+external fertilization, 1283,
+1310
+extinct, 690, 709
+extinction, 1434, 1460
+extinction rate, 1460
+extinction rates, 1442
+extracellular digestion, 774,
+810
+extracellular domain, 255,
+273
+extracellular matrix, 136,
+140
+extremophile, 613
+extremophiles, 586
+
+F
+F1, 327, 353
+F2, 327, 353
+facial bone, 1159
+facial bones, 1127
+facilitated transport, 156,
+170
+FACT, 415, 425
+faculative anaerobes, 657,
+680
+fall and spring turnover,
+1348
+fallout, 1427, 1429
+false negative, 477, 478
+falsifiable, 17, 34
+family, 534, 551
+Fecundity, 1360
+fecundity, 1398
+Feedback inhibition, 195
+feedback inhibition, 197
+
+INDEX 1503
+
+femur, 1132, 1159
+fermentation, 216, 225
+fern, 709
+ferns, 702
+fertilization, 308, 321
+FEV1/FVC ratio, 1174, 1188
+fibrous connective tissue,
+977
+Fibrous connective tissues,
+966
+fibrous joint, 1159
+fibrous joints, 1141
+fibrous root system, 869,
+897
+fibula, 1132, 1159
+field, 1058
+filament, 725, 737
+first messenger, 1096, 1117
+Fission, 1280
+fission, 1310
+fixation, 243
+fixed action pattern, 1388,
+1398
+flagella, 134
+flagellum, 140
+flame cell, 1237
+flame cells, 1230
+flat bone, 1159
+Flat bones, 1135
+Flexion, 1143
+flexion, 1159
+flight feather, 852
+Flight feathers, 837
+Flow-resistive, 1182
+flow-resistive, 1188
+flower, 717, 737
+fluid mosaic model, 146,
+170
+follicle stimulating hormone
+(FSH), 1293, 1310
+follicle-stimulating hormone
+(FSH), 1098, 1117
+food chain, 1405, 1429
+food web, 1407, 1429
+foodborne disease, 606,
+613
+Foraging, 1389
+foraging, 1398
+forced expiratory volume
+(FEV), 1174, 1188
+forearm, 1131, 1159
+foreign DNA, 460, 478
+Foundation species, 1382
+foundation species, 1398
+founder effect, 513, 527
+fovea, 1079, 1084
+Fragmentation, 1281
+fragmentation, 1310
+free energy, 181, 197
+
+free nerve ending, 1063,
+1084
+frequency-dependent
+selection, 523, 527
+frog, 852
+Frogs, 827
+frontal (coronal) plane, 977
+frontal lobe, 1035, 1051
+frontal plane, 959
+fruit, 717, 737
+FtsZ, 297, 300
+functional group, 68
+Functional groups, 64
+functional residual capacity
+(FRC), 1174, 1188
+functional vital capacity
+(FVC), 1182, 1188
+furcula, 838, 852
+fusiform, 956, 977
+fusion, 567, 579
+
+G
+G-protein, 1096, 1117
+G-protein-linked receptor,
+273
+G-protein-linked receptors,
+256
+G0 phase, 287, 300
+G1 phase, 283, 300
+G2 phase, 284, 300
+gall, 579
+gallbladder, 992, 1007
+galls, 569
+Gametangia, 688
+gametangium, 709
+gamete, 300
+gametes, 280
+gametic barrier, 501, 506
+gametophyte, 321, 923, 950
+gametophytes, 319
+gap junction, 140
+Gap junctions, 139
+gastric inhibitory peptide,
+1006, 1007
+gastric phase, 1006, 1007
+gastrin, 1006, 1007
+gastrodermis, 774, 810
+gastrovascular cavity, 774,
+810, 983, 1007
+gastrula, 744, 762
+gastrulation, 1304, 1310
+GC-rich box, 425
+GC-rich boxes, 413
+Gel electrophoresis, 457
+gel electrophoresis, 478
+gemma, 709
+gemmae, 696
+gemmule, 810
+
+Gemmules, 771
+gene, 300
+gene expression, 430, 449
+gene flow, 519, 527
+gene pool, 513, 527
+Gene targeting, 463
+gene targeting, 478
+Gene therapy, 464
+gene therapy, 478, 575, 579
+gene transfer agent (GTA),
+551
+gene transfer agents
+(GTAs), 545
+genes, 281
+genetic diagnosis, 464, 478
+Genetic diversity, 1434
+genetic diversity, 1460
+genetic drift, 516, 527
+Genetic engineering, 463
+genetic engineering, 478
+genetic map, 466, 478
+genetic marker, 466, 478
+genetic recombination, 467,
+478
+genetic structure, 513, 527
+genetic testing, 464, 478
+genetic variance, 516, 527
+genetically modified
+organism, 463
+genetically modified
+organism (GMO), 478
+genome, 280, 300
+genome annotation, 472,
+478
+genome fusion, 546, 551
+Genome mapping, 466
+genome mapping, 478
+genomic libraries, 468
+genomic library, 478
+Genomics, 466
+genomics, 479
+genotype, 332, 353
+genus, 534, 551
+geographical variation, 521,
+527
+geometric isomer, 68
+Geometric isomers, 62
+germ cells, 318, 321
+germ layer, 762
+germ layers, 744
+gestation, 1297, 1310
+gibberellin (GA), 897
+Gibberellins, 893
+gigantism, 1105, 1117
+gill circulation, 1196, 1214
+gingkophyte, 737
+gingkophytes, 723
+gizzard, 985, 1007
+glabrous, 1063, 1084
+glia, 1016, 1051
+
+1504 INDEX
+
+gliding movement, 1159
+Gliding movements, 1143
+Global climate change,
+1342
+global climate change, 1348
+Glomeromycota, 668, 680
+glomerular filtration, 1226,
+1237
+Glomerular filtration rate
+(GFR), 1227
+glomerular filtration rate
+(GFR), 1237
+glomeruli, 1071
+glomerulus, 1084, 1225
+glomerulus (renal), 1237
+glucagon, 1102, 1117
+glucocorticoid, 1117
+glucocorticoids, 1106
+gluconeogenesis, 1102,
+1117
+glucose-sparing effect,
+1104, 1117
+GLUT protein, 225
+GLUT proteins, 221
+Glycogen, 81
+glycogen, 105
+glycogenolysis, 1102, 1117
+glycolipid, 170
+glycolipids, 147
+Glycolysis, 206
+glycolysis, 225
+glycoprotein, 170
+glycoproteins, 147
+glycosidic bond, 78, 105
+gnathostome, 852
+Gnathostomes, 822
+gnetophyte, 737
+Gnetophytes, 723
+goiter, 1103, 1117
+Golgi apparatus, 129, 140
+Golgi tendon organ, 1084
+Golgi tendon organs, 1065
+Gomphoses, 1142
+gomphosis, 1159
+gonadotropin, 1117
+gonadotropin-releasing
+hormone (GnRH), 1293,
+1310
+gonadotropins, 1098
+good genes hypothesis,
+525, 527
+Gorilla, 845, 852
+gradual speciation model,
+504, 506
+grafting, 946, 950
+Gram negative, 595, 613
+Gram positive, 595, 613
+granum, 232, 247
+granzyme, 1249, 1273
+gravitropism, 950
+
+grazing food web, 1408,
+1429
+greenhouse effect, 1345,
+1348
+greenhouse gases, 1344,
+1348
+gross primary productivity,
+1413, 1429
+Ground tissue, 859
+ground tissue, 897
+Group I, 562
+group I virus, 579
+Group II, 562
+group II virus, 579
+Group III, 562
+group III virus, 579
+Group IV, 562
+group IV virus, 579
+Group V, 563
+group V virus, 579
+Group VI, 563
+group VI virus, 579
+Group VII, 563
+group VII virus, 579
+growth factor, 273
+growth factors, 266
+Growth hormone (GH),
+1104
+growth hormone (GH), 1117
+growth hormone-inhibiting
+hormone (GHIH), 1104,
+1117
+growth hormone-releasing
+hormone (GHRH), 1104,
+1117
+guanine diphosphate
+(GDP), 449
+guanine triphosphate
+(GTP), 449
+guanosine diphosphate
+(GDP), 444
+guanosine triphosphate
+(GTP), 444
+guard cells, 863, 898
+gustation, 1067, 1084
+gymnosperm, 737
+Gymnosperms, 719
+gynoecium, 725, 737, 924,
+950
+gyri, 1034
+gyrus, 1051
+
+H
+habitat isolation, 501, 506
+Habituation, 1393
+habituation, 1398
+hagfish, 852
+Hagfishes, 821
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+hairpin, 410, 425
+halophile, 613
+handicap principle, 525, 527
+haplodiplodontic, 709
+haploid, 280, 300
+haploid-dominant, 318, 321
+haplontic, 709
+haustoria, 658, 680
+Haversian canal, 1136,
+1159
+haze-effect cooling, 1344,
+1348
+heat, 197
+Heat energy, 183
+heat energy, 185, 197
+heat of vaporization, 55
+heat of vaporization of
+water, 68
+heirloom seed, 737
+Heirloom seeds, 736
+helicase, 390, 399
+helper T (TH) lymphocytes,
+1253
+helper T lymphocyte (TH),
+1274
+heme group, 1184, 1188
+hemizygous, 340, 353
+hemocoel, 801, 810, 1194,
+1214
+Hemoglobin, 1184
+hemoglobin, 1188
+hemolymph, 1194, 1214
+herbaceous, 729, 737
+herbivore, 1007
+Herbivores, 982
+herbivory, 730, 737
+Heritability, 516
+heritability, 527
+hermaphrodite, 810
+hermaphrodites, 804
+Hermaphroditism, 1282
+hermaphroditism, 1310
+heterodont teeth, 841
+heterodont tooth, 852
+heterogeneity, 1438, 1460
+heterospecifics, 1320, 1348
+heterosporous, 688, 709
+Heterothallic, 659
+heterothallic, 680
+heterotroph, 247
+heterotrophs, 230
+heterozygous, 332, 353
+hibernation, 959, 977
+hilum, 1223, 1237
+hinge joint, 1159
+hinge joints, 1146
+hippocampus, 1036, 1051
+histone, 300
+
+INDEX 1505
+
+histone acetylation, 446,
+449
+histone proteins, 281
+holistic ecosystem model,
+1410, 1430
+holoblastic, 1304, 1310
+holoenzyme, 408, 425
+homeostasis, 25, 34, 977
+Homeostasis, 972
+hominin, 845, 852
+hominoid, 852
+hominoids, 845
+Homo, 845, 852
+Homo sapiens sapiens,
+850, 852
+homologous, 281
+homologous chromosomes,
+301
+homologous recombination,
+361, 374
+homologous structures,
+491, 506
+homosporous, 688, 709
+homothallic, 659, 680
+homozygous, 332, 353
+honest signal, 525, 527
+horizon, 910, 920
+Horizontal gene transfer
+(HGT), 544
+horizontal gene transfer
+(HGT), 551
+horizontal transmission,
+569, 579
+Hormonal stimuli, 1108
+hormonal stimuli, 1117
+hormone, 105, 1094
+hormone receptor, 1117
+Hormones, 91
+hornworts, 696, 709
+horsetail, 709
+horsetails, 701
+host, 1243, 1274, 1381,
+1398
+host DNA, 460, 479
+Hox gene, 762
+Hox genes, 745
+human beta chorionic
+gonadotropin (β-HCG),
+1297, 1310
+humerus, 1131, 1159
+humoral immune response,
+1251, 1274
+humoral stimuli, 1117
+humoral stimulus, 1107
+humus, 910, 920
+hybrid, 495, 506
+hybrid inviability, 502
+hybrid zone, 503, 506
+hybridization, 353
+hybridizations, 327
+
+hydrocarbon, 68
+Hydrocarbons, 60
+hydrogen bond, 52, 68
+hydrogenosome, 649
+hydrogenosomes, 630
+hydrolysis, 105
+hydrolysis reactions, 74
+hydrophilic, 53, 68, 147, 170
+hydrophobic, 53, 68, 170
+Hydrophobic, 147
+hydrosphere, 1417, 1430
+hydrostatic skeleton, 1124,
+1159
+hydrothermal vent, 584, 614
+Hylobatidae, 845, 852
+Hylonomus, 833, 852
+hyoid bone, 1128, 1159
+hyperextension, 1143, 1159
+hyperglycemia, 1101, 1117
+hyperopia, 1078, 1084
+hyperplasia, 569, 579
+hyperpolarization, 1051
+hyperpolarizes, 1025
+hypersensitivities, 1270,
+1274
+hyperthermophile, 614
+Hyperthyroidism, 1103
+hyperthyroidism, 1117
+hypertonic, 159, 170
+hypha, 656, 680
+hyphae, 656
+hypocotyl, 941, 950
+hypoglycemia, 1101, 1117
+hypophyseal portal system,
+1109, 1117
+hypoplasia, 569, 579
+hypothalamus, 1038, 1051,
+1108
+hypothesis, 14, 34
+hypothesis-based science,
+16, 34
+Hypothyroidism, 1103
+hypothyroidism, 1117
+hypotonic, 158, 170
+
+I
+ileum, 991, 1007
+immune tolerance, 1258,
+1274
+Immunodeficiency, 1270
+immunodeficiency, 1274
+Imprinting, 1393
+imprinting, 1398
+inbreeding, 516, 527
+inbreeding depression, 516,
+527
+incomplete dominance, 336,
+353
+
+incus, 1072, 1084
+indeterminate cleavage,
+752, 762
+induced fit, 191, 197
+induced mutation, 399
+Induced mutations, 397
+inducible operon, 449
+inducible operons, 434
+Inductive reasoning, 16
+inductive reasoning, 34
+inert gas, 68
+inert gases, 46
+inferior vena cava, 1204,
+1214, 1224, 1237
+Infertility, 1302
+infertility, 1310
+inflammation, 1247, 1274
+ingestion, 999, 1008
+inhibin, 1293, 1310
+inhibitor, 266, 273
+inhibitory postsynaptic
+potential (IPSP), 1051
+inhibitory postsynaptic
+potentials (IPSPs), 1028
+initiation complex, 444, 449
+initiation site, 408, 425
+initiator tRNA, 421, 425
+innate behavior, 1398
+innate behaviors, 1387
+Innate immunity, 1244
+innate immunity, 1274
+inner cell mass, 1304, 1310
+inner ear, 1073, 1084
+inorganic compound, 906,
+920
+inositol phospholipid, 273
+inositol phospholipids, 264
+inositol triphosphate (IP3),
+264, 273
+insectivorous, 918
+insectivorous plant, 920
+inspiratory capacity (IC),
+1174, 1189
+inspiratory reserve volume
+(IRV), 1174, 1189
+Insulin, 1101
+insulin, 1117
+insulin-like growth factor
+(IGF), 1117
+insulin-like growth factors
+(IGFs), 1104
+integral protein, 170
+Integral proteins, 149
+integument, 719, 737
+intercalary meristem, 898
+Intercalary meristems, 859
+intercellular signaling, 252,
+273
+intercostal muscle, 1189
+
+1506 INDEX
+
+intercostal muscles, 1180
+interferon, 1246, 1274
+interkinesis, 312, 321
+interlobar arteries, 1224
+interlobar artery, 1237
+intermediate filament, 140
+Intermediate filaments, 133
+intermittent, 568
+intermittent symptom, 579
+internal fertilization, 1283,
+1310
+internal receptor, 273
+Internal receptors, 255
+internode, 860, 898
+interphase, 283, 301
+intersexual selection, 1392,
+1398
+interspecific competition,
+1367, 1398
+interstitial cell of Leydig,
+1310
+interstitial cells of Leydig,
+1293
+interstitial fluid, 1194, 1215
+intertidal zone, 1336, 1348
+intervertebral disc, 1159
+Intervertebral discs, 1128
+intestinal phase, 1006, 1008
+intine, 929, 950
+intracellular hormone
+receptor, 1117
+intracellular hormone
+receptors, 1094
+intracellular mediator, 273
+intracellular mediators, 254
+intracellular signaling, 252,
+273
+Intramembranous
+ossification, 1138
+intramembranous
+ossification, 1159
+intrapleural space, 1181,
+1189
+intrasexual selection, 1392,
+1398
+intraspecific competition,
+1365, 1398
+introduction, 22, 34
+intron, 425
+introns, 417
+Inversion, 1144
+inversion, 1159
+invertebrata, 768, 811
+ion, 68
+ion channel-linked receptor,
+273
+Ion channel-linked
+receptors, 256
+ionic bond, 68
+Ionic bonds, 50
+
+ions, 46
+iris, 1078, 1084
+irregular bone, 1159
+Irregular bones, 1135
+irreversible, 49
+irreversible chemical
+reaction, 68
+island biogeography, 1383,
+1398
+islets of Langerhans, 1112
+islets of Langerhans
+(pancreatic islets), 1117
+isomerase, 206, 225
+isomers, 62, 68
+isotonic, 159, 170
+isotope, 68
+Isotopes, 42
+isthmus, 1109, 1118
+Iteroparity, 1360
+iteroparity, 1398
+
+J
+J-shaped growth curve,
+1363, 1398
+Jasmonates, 895
+jasmonates, 898
+jejunum, 991, 1008
+joint, 1141, 1159
+juxtaglomerular cell, 1238
+juxtaglomerular cells, 1229
+juxtamedullary nephron,
+1238
+juxtamedullary nephrons,
+1224
+
+K
+K-selected species, 1370,
+1397
+karyogamy, 660, 680
+karyogram, 365, 374
+karyokinesis, 284, 301
+karyotype, 365, 374
+keystone species, 1383,
+1398
+kidney, 1238
+kidneys, 1223
+kin selection, 1391, 1398
+kinase, 263, 273
+kinesis, 1388, 1398
+kinesthesia, 1058, 1084
+kinetic energy, 179, 197
+kinetochore, 286, 301
+kinetoplast, 630, 649
+kingdom, 534, 551
+Kozak’s rules, 421, 425
+Krebs cycle, 209, 225
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+L
+labia majora, 1288, 1310
+labia minora, 1288, 1310
+labyrinth, 1073, 1084
+lac operon, 434, 449
+lactase, 1008
+lactases, 1000
+lacuna, 977
+lacunae, 966
+lagging strand, 391, 399
+lamella, 1160
+lamellae, 1136
+lamina, 873, 898
+lamprey, 852
+Lampreys, 821
+lancelet, 852
+lancelets, 818
+large 60S ribosomal
+subunit, 449
+large intestine, 992, 1008
+larynx, 1169, 1189
+latency, 566, 579
+lateral line, 823, 852
+lateral meristem, 898
+Lateral meristems, 859
+lateral rotation, 1144, 1160
+law of dominance, 344, 353
+law of independent
+assortment, 344, 353
+law of mass action, 49, 68
+law of segregation, 344, 353
+Layering, 947
+layering, 950
+leading strand, 391, 399
+learned behavior, 1398
+learned behaviors, 1387
+lens, 1078, 1084
+lenticel, 898
+lenticels, 866
+lepidosaur, 852
+lepidosaurs, 831
+leptin, 1115, 1118
+lichen, 680
+Lichens, 671
+life cycle, 321
+life cycles, 318
+life history, 1359, 1398
+life science, 34
+life sciences, 15
+life table, 1398
+life tables, 1354
+ligand, 252, 274
+ligase, 392, 399
+light harvesting complex,
+247
+light microscope, 141
+light microscopes, 112
+
+INDEX 1507
+
+light-dependent reaction,
+247
+light-dependent reactions,
+232
+light-harvesting complex,
+239
+light-independent reaction,
+247
+light-independent reactions,
+232
+lignin, 699, 709
+limbic system, 1038, 1051
+linkage, 347, 353
+linkage analysis, 466, 479
+lipase, 988, 1008
+lipid, 105
+lipid hormones, 1092
+lipid-derived hormone, 1118
+Lipids, 84
+litmus, 58
+litmus paper, 68
+liver, 992, 1008
+Liverworts, 695
+liverworts, 709
+loam, 920
+loams, 910
+lobe, 1036
+lobes of the kidney, 1224,
+1238
+locus, 281, 301
+logistic growth, 1364, 1398
+long bone, 1160
+Long bones, 1134
+Long-term depression
+(LTD), 1032
+long-term depression (LTD),
+1051
+Long-term potentiation
+(LTP), 1032
+long-term potentiation
+(LTP), 1051
+loop of Henle, 1225, 1238
+loose (areolar) connective
+tissue, 977
+Loose connective tissue,
+965
+Lophotrochozoa, 754, 762
+lower limb, 1132, 1160
+lung capacities, 1173
+lung capacity, 1189
+lung volume, 1189
+lung volumes, 1173
+luteinizing hormone (LH),
+1293, 1311
+lycophyte, 709
+Lycopodiophyta, 700
+Lymph, 1263
+lymph, 1274
+lymph node, 1215
+Lymph nodes, 1211
+
+lymphocyte, 1274
+Lymphocytes, 1248
+lysis, 564, 579
+lysis buffer, 456, 479
+lysogenic cycle, 566, 580
+lysosome, 141
+lysosomes, 124
+lytic cycle, 566, 580
+
+M
+macroevolution, 512, 527
+macromolecule, 34
+macromolecules, 26
+macronutrient, 920
+macronutrients, 907
+macrophage, 1244, 1274
+macula densa, 1229, 1238
+madreporite, 807, 811
+Major depression, 1049
+major depression, 1051
+major histocompatibility
+class (MHC) I molecules,
+1248
+major histocompatibility
+class (MHC) I/II molecule,
+1274
+malleus, 1072, 1084
+Malpighian tubule, 1238
+Malpighian tubules, 1230
+maltase, 1008
+maltases, 1000
+mammal, 852
+Mammals, 841
+mammary gland, 852
+Mammary glands, 841
+mantle, 788, 811
+mark and recapture, 1356,
+1398
+marsupial, 852
+Marsupials, 843
+mass extinction, 759, 762
+mass number, 41, 68
+mast cell, 1247, 1274
+mastax, 784, 811
+materials and methods, 23,
+34
+mating factor, 268, 274
+matrix, 965, 977
+matrix protein, 580
+matrix proteins, 558
+Matter, 40
+matter, 68
+maximum parsimony, 543,
+551
+mechanoreceptor, 1058,
+1084
+medial rotation, 1144, 1160
+medulla, 1223, 1238
+
+medusa, 772, 811
+megafauna, 1441, 1460
+megagametogenesis, 929,
+950
+megapascal (MPa), 898
+megapascals, 881
+megaphyll, 709
+megaphylls, 700
+megasporangium, 929, 950
+megaspore, 709
+megaspores, 688
+megasporocyte, 719, 737
+megasporogenesis, 929,
+951
+megasporophyll, 951
+megasporophylls, 931
+meiosis, 308, 321
+meiosis I, 308, 321
+Meiosis II, 308
+meiosis II, 321
+Meissner’s corpuscle, 1084
+Meissner’s corpuscles,
+1064
+membrane potential, 1021,
+1051
+memory cell, 1259, 1274
+meninge, 1051
+meninges, 1033
+menopause, 1296, 1311
+menstrual cycle, 1293, 1311
+meristem, 898
+Meristematic tissue, 859
+meristematic tissue, 898
+meristems, 859
+Merkel's disc, 1084
+Merkel’s disks, 1063
+meroblastic, 1304, 1311
+mesocarp, 943, 951
+mesocosm, 1410, 1430
+mesoglea, 774, 811
+Mesohyl, 768
+mesohyl, 811
+mesophyll, 232, 247
+messenger RNA (mRNA),
+100, 105
+metabolism, 176, 197
+metabolome, 476, 479
+Metabolomics, 476
+metabolomics, 479
+metacarpus, 1131, 1160
+Metagenomics, 474
+metagenomics, 479
+metamerism, 793, 811
+metaphase, 286, 301
+metaphase plate, 286, 301
+metatarsal, 1160
+metatarsals, 1132
+Metazoa, 753, 762
+
+1508 INDEX
+
+methicillin-resistant
+Staphylococcus aureus
+(MRSA), 605
+MHC II molecules, 1248
+microbial mat, 584, 614
+Microbiology, 32
+microbiology, 35
+microcosm, 1410, 1430
+microevolution, 512, 527
+microfilament, 141
+microfilaments, 132
+Microglia, 1020
+microglia, 1051
+micronutrient, 920
+micronutrients, 908
+microphyll, 700, 709
+Micropropagation, 948
+micropropagation, 951
+micropyle, 930, 951
+microRNA (miRNA), 449
+microRNAs, 443
+microsatellite
+polymorphism, 479
+microsatellite
+polymorphisms, 467
+microscope, 112, 141
+microsporangium, 927, 951
+microspore, 709
+microspores, 688
+microsporocyte, 737
+microsporocytes, 719
+microsporophyll, 951
+microsporophylls, 931
+microtubule, 141
+microtubules, 133
+microvilli, 1230, 1238
+middle ear, 1072, 1084
+midsagittal plane, 959, 977
+Migration, 1388
+migration, 1399
+Milankovitch cycles, 1344,
+1349
+mineral, 1008
+mineral soil, 920
+mineral soils, 909
+mineralocorticoid, 1097,
+1118
+Minerals, 994
+mismatch repair, 396, 399
+Mitochondria, 123
+mitochondria, 141
+mitochondria-first, 547
+mitochondria-first
+hypothesis, 551
+mitosis, 284, 301
+mitosome, 649
+mitosomes, 630
+mitotic phase, 283, 301
+mitotic spindle, 284, 301
+mixotroph, 649
+
+mixotrophs, 627
+model organism, 472, 479
+model system, 326, 354
+modern synthesis, 512, 527
+molality, 1221, 1238
+molarity, 1221, 1238
+mold, 667, 680
+mole, 1221, 1238
+molecular biology, 32, 35
+molecular cloning, 479
+molecular systematics, 539,
+551
+molecule, 26, 35, 68
+Molecules, 44
+Mollusca, 787, 811
+monocarpic, 949, 951
+monocot, 737
+Monocots, 727
+monocyte, 1244, 1274
+monoecious, 719, 738
+monogamous, 1392
+monogamy, 1399
+monogastric, 984, 1008
+monohybrid, 333, 354
+monomer, 105
+monomers, 74
+monophyletic group, 541,
+551
+monosaccharide, 105
+Monosaccharides, 75
+monosomy, 367, 374
+monotreme, 852
+monotremes, 843
+morning sickness, 1311
+mortality rate, 1358, 1399
+mosses, 697, 709
+motor end plate, 1155, 1160
+MRSA, 614
+mucin, 1172, 1189
+Mucosa-associated
+lymphoid tissue (MALT),
+1257
+mucosa-associated
+lymphoid tissue (MALT),
+1274
+mucus, 1172, 1189
+Müllerian mimicry, 1378,
+1398
+multiple cloning site (MCS),
+460, 479
+Multiple fruit, 943
+multiple fruit, 951
+muscle spindle, 1085
+Muscle spindles, 1065
+mutation, 399
+Mutations, 397
+mutualism, 1381, 1399
+Myc, 446
+myc, 449
+mycelium, 656, 680
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+Mycetismus, 675
+mycetismus, 680
+mycology, 654, 680
+Mycorrhiza, 670
+mycorrhiza, 681
+mycorrhizae, 653, 680
+mycosis, 675, 681
+Mycotoxicosis, 675
+mycotoxicosis, 681
+myelin, 1016, 1051
+myocardial infarction, 1206,
+1215
+myocardium, 1205, 1215
+myofibril, 1160
+myofibrils, 1150
+myofilament, 1160
+myofilaments, 1151
+Myopia, 1078
+myopia, 1085
+myosin, 1150, 1160
+Myxini, 821, 852
+
+N
+nacre, 789, 811
+nasal cavity, 1168, 1189
+natural killer (NK) cell, 1274
+natural killer (NK) cells,
+1248
+natural science, 35
+natural sciences, 15
+Natural selection, 487
+natural selection, 506
+nauplius, 804, 811
+nectar, 731, 738
+nectar guide, 935, 951
+negative feedback loop,
+972, 977
+negative gravitropism, 892,
+898
+negative polarity, 563, 580
+negative regulator, 449
+negative regulators, 433
+nematocyst, 811
+nematocysts, 772
+Nematoda, 795, 811
+Nemertea, 785, 811
+Neognathae, 839, 852
+Neornithes, 839, 852
+nephridia, 1230, 1238
+nephridiopore, 1230, 1238
+nephron, 1238
+nephrons, 1224
+neritic zone, 1337, 1349
+Net consumer productivity,
+1414
+net consumer productivity,
+1430
+
+INDEX 1509
+
+Net primary productivity,
+1328, 1413
+net primary productivity,
+1349, 1430
+Net production efficiency
+(NPE), 1414
+net production efficiency
+(NPE), 1430
+neural stimuli, 1108, 1118
+neural tube, 1308, 1311
+neurobiology, 32, 35
+neurodegenerative disorder,
+1051
+Neurodegenerative
+disorders, 1044
+neuron, 1051
+neurons, 1016
+neurotransmitter, 274
+neurotransmitters, 253
+neutron, 41, 68
+neutrophil, 1247, 1274
+next-generation
+sequencing, 471, 479
+Nitrification, 601
+nitrification, 614
+nitrogen fixation, 601, 614
+nitrogenase, 915, 920
+noble gas, 68
+noble gases, 46
+nociception, 1066, 1085
+node, 898
+Nodes, 860
+nodes of Ranvier, 1016,
+1051
+nodule, 614
+nodules, 608, 915, 920
+non-electrolyte, 1220, 1238
+non-endospermic dicot, 951
+non-endospermic dicots,
+941
+non-renewable resource,
+1422, 1430
+non-vascular plant, 709
+non-vascular plants, 691
+nondisjunction, 366, 374
+nonparental (recombinant)
+type, 374
+nonparental types, 361
+nonpolar covalent bond, 69
+Nonpolar covalent bonds,
+51
+nonrandom mating, 520,
+527
+nonsense codon, 425
+nonsense codons, 406
+nontemplate strand, 408,
+425
+norepinephrine, 1041, 1051,
+1106, 1118
+northern blotting, 460, 479
+
+notochord, 816, 853
+nuclear envelope, 121, 141
+nucleic acid, 105
+Nucleic acids, 100
+nucleoid, 116, 141
+nucleolus, 122, 141
+nucleoplasm, 121, 141
+nucleosome, 281, 301
+nucleotide, 105
+nucleotide excision repair,
+396, 399
+nucleotides, 100
+nucleus, 40, 69, 121, 141
+nucleus-first, 547
+nucleus-first hypothesis,
+551
+nutrient, 614
+nutrients, 584, 599
+
+O
+O horizon, 911, 920
+obligate aerobes, 657, 681
+obligate anaerobes, 657,
+681
+obstructive disease, 1189
+Obstructive diseases, 1182
+occipital, 1036
+occipital lobe, 1051
+Ocean upwelling, 1324
+ocean upwelling, 1349
+oceanic zone, 1337, 1349
+Octamer box, 426
+octamer boxes, 413
+octet rule, 45, 69
+odorant, 1085
+Odorants, 1067
+Okazaki fragment, 399
+Okazaki fragments, 391
+olfaction, 1067, 1085
+olfactory bulb, 1071, 1085
+olfactory epithelium, 1067,
+1085
+olfactory receptor, 1067,
+1085
+oligodendrocyte, 1051
+Oligodendrocytes, 1020
+oligosaccharin, 898
+Oligosaccharins, 895
+Omega, 87
+omega fat, 106
+omnivore, 1008
+Omnivores, 983
+oncogene, 301
+oncogenes, 295
+oncogenic virus, 580
+oncogenic viruses, 568
+oncolytic virus, 580
+Oncolytic viruses, 575
+
+one-child policy, 1375, 1399
+oogenesis, 1290, 1311
+open circulatory system,
+1194, 1215
+operant conditioning, 1394,
+1399
+operator, 433, 449
+operon, 450
+operons, 432
+Opposition, 1144
+opposition, 1160
+opsonization, 1249, 1274
+orbital, 69
+orbitals, 45
+order, 534, 551
+organ, 35
+organ of Corti, 1074, 1085
+organ system, 27, 35
+organelle, 35, 141
+organelles, 27, 118
+organic compound, 906,
+920
+organic molecule, 69
+organic molecules, 60
+organic soil, 920
+organic soils, 909
+organism, 35
+Organisms, 28
+organogenesis, 744, 762,
+1307, 1311
+Organs, 27
+origin, 297, 301
+Ornithorhynchidae, 843,
+853
+osculum, 768, 811
+osmoconformer, 1238
+osmoconformers, 1221
+Osmolarity, 158
+osmolarity, 171
+osmophile, 614
+osmoreceptor, 1118
+osmoreceptors, 1097
+Osmoregulation, 1220
+osmoregulation, 1238
+osmoregulator, 1238
+osmoregulatory, 1221
+Osmosis, 157
+osmosis, 171
+osmotic balance, 1220,
+1238
+osmotic pressure, 1220,
+1238
+osseous tissue, 1134, 1160
+ossicle, 1085
+ossicles, 1072
+Ossification, 1138
+ossification, 1160
+Osteichthyes, 824, 853
+osteoblast, 1160
+Osteoblasts, 1138
+
+1510 INDEX
+
+osteoclast, 1160
+Osteoclasts, 1138
+osteocyte, 1160
+Osteocytes, 1138
+osteon, 977, 1160
+osteons, 967
+Osteons, 1136
+Osteoprogenitor cells, 1138
+ostia, 768, 1194
+ostium, 811, 1215
+ostracoderm, 853
+ostracoderms, 821
+outer ear, 1072, 1085
+oval window, 1073, 1085
+ovarian cycle, 1293, 1311
+ovary, 725, 738
+oviduct, 1311
+oviducts, 1289
+oviger, 811
+ovigers, 805
+oviparity, 1284, 1311
+ovoviparity, 1285, 1311
+ovulate cone, 738
+ovulate cones, 719
+ovulation, 1295, 1311
+ovule, 715, 738
+oxidative phosphorylation,
+205, 225
+oxygen dissociation curve,
+1185, 1189
+oxygen-carrying capacity,
+1185, 1189
+oxytocin, 1100, 1118
+
+P
+P0, 327, 354
+p21, 294, 301
+p53, 294, 301
+P680, 240, 247
+P700, 241, 247
+Pacinian corpuscle, 1085
+Pacinian corpuscles, 1065
+pairwise-end sequencing,
+471
+Paleognathae, 839, 853
+Paleontology, 33
+paleontology, 35
+palmately compound leaf,
+874, 898
+Pan, 845, 853
+pancreas, 992, 1008, 1112,
+1118
+pandemic, 602, 614
+papilla, 1085
+papillae, 1069
+paracentric, 371, 374
+paracrine signal, 274
+paracrine signals, 253
+
+parafollicular cell, 1118
+parafollicular cells, 1110
+parapodia, 794
+parapodium, 811
+parasite, 1381, 1399
+parasitic plant, 916, 920
+Parasitism, 674
+parasitism, 681
+parasympathetic nervous
+system, 1042, 1051
+parathyroid gland, 1118
+parathyroid glands, 1110
+parathyroid hormone (PTH),
+1103, 1118
+Parazoa, 754, 762
+parenchyma cell, 898
+Parenchyma cells, 861
+parent material, 911, 920
+Parental types, 361
+parental types, 374
+parietal, 1036
+parietal lobe, 1051
+Parkinson’s disease, 1045,
+1051
+Parthenogenesis, 1282
+parthenogenesis, 1311
+Partial pressure, 1172
+partial pressure, 1189
+particulate matter, 1171,
+1189
+passive immunity, 1267,
+1274
+Passive transport, 153
+passive transport, 171
+patella, 1132, 1160
+pathogen, 580, 1275
+pathogen-associated
+molecular pattern (PAMP),
+1274
+pathogen-associated
+molecular patterns
+(PAMPs), 1244
+pathogens, 575, 1243
+pattern recognition receptor
+(PRR), 1275
+pattern recognition
+receptors (PRRs), 1244
+peat moss, 707, 709
+pectoral girdle, 1130, 1160
+pedigree analysis, 335
+pedipalp, 811
+pedipalps, 805
+peer-reviewed manuscript,
+35
+Peer-reviewed manuscripts,
+22
+pelagic realm, 1335, 1349
+pellicle, 649
+pellicles, 626
+pelvic girdle, 1131, 1160
+
+penis, 1287, 1311
+Pepsin, 990
+pepsin, 1008
+pepsinogen, 990, 1008
+peptide bond, 93, 106
+peptide hormone, 1118
+peptide hormones, 1093
+peptidoglycan, 595, 614
+peptidyl transferase, 422,
+426
+Perception, 1059
+perception, 1085
+perforin, 1249, 1275
+perianth, 725, 738, 924, 951
+pericardium, 1206, 1215
+pericarp, 943, 951
+pericentric, 371, 374
+pericycle, 871, 898
+periderm, 866, 898
+periodic table, 44, 69
+peripheral protein, 171
+Peripheral proteins, 150
+peripheral resistance, 1212,
+1215
+perirenal fat capsule, 1223,
+1238
+peristalsis, 988, 1008
+peristome, 699, 709
+peritubular capillary
+network, 1225, 1238
+permafrost, 1334, 1349
+permanent tissue, 859, 898
+permissive, 564, 580
+peroxisome, 141
+Peroxisomes, 123
+petal, 738
+Petals, 725
+petiole, 873, 898
+Petromyzontidae, 821, 853
+pH paper, 69
+pH scale, 58, 69
+phage therapy, 575, 580
+phagolysosome, 626, 649
+phalange, 1160
+phalanges, 1131
+Pharmacogenomics, 474
+pharmacogenomics, 479
+pharyngeal slit, 853
+Pharyngeal slits, 817
+pharynx, 1169, 1189
+phenotype, 332, 354
+pheromone, 1069, 1085
+Phloem, 700
+phloem, 709
+phosphatase, 274
+phosphatases, 268
+phosphoanhydride bond,
+197
+phosphoanhydride bonds,
+187
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+INDEX 1511
+
+phosphodiester, 101, 106
+phosphodiesterase, 268,
+274, 1096
+phosphodiesterase (PDE),
+1118
+phospholipid, 106
+Phospholipids, 88
+Phosphorylation, 204
+phosphorylation, 225
+photic zone, 1335, 1349
+photoact, 240, 247
+photoautotroph, 247
+photoautotrophs, 230
+Photomorphogenesis, 888
+photomorphogenesis, 898
+photon, 239, 247
+Photoperiodism, 888
+photoperiodism, 898
+photosystem, 239, 248
+photosystem I, 239, 248
+photosystem II, 239, 247
+phototroph, 614
+phototrophs, 585
+Phototrophs, 599
+phototropin, 898
+phototropins, 891
+Phototropism, 888
+phototropism, 898
+phyllotaxy, 874, 898
+phylogenetic tree, 30, 35,
+532, 551
+Phylogeny, 532
+phylogeny, 551
+phylum, 534, 551
+physical map, 466, 479
+physical science, 35
+physical sciences, 15
+physiological dead space,
+1183, 1189
+phytochrome, 898
+phytochromes, 889
+pia mater, 1033, 1051
+pigment, 232, 248
+pili, 591
+pilidium, 787, 811
+pilus, 614
+pinacocyte, 811
+Pinacocytes, 768
+pinna, 1072, 1085
+pinnately compound leaf,
+898
+Pinnately compound leaves,
+874
+pinocytosis, 166, 171
+pioneer species, 1386, 1399
+pistil, 725, 738
+pith, 865, 898
+pituitary dwarfism, 1105,
+1118
+pituitary gland, 1108, 1118
+
+pituitary stalk, 1108, 1118
+pivot joint, 1160
+Pivot joints, 1146
+placenta, 1298, 1311
+plagiarism, 23, 35
+planar joint, 1160
+Planar joints, 1145
+planktivore, 1349
+planktivores, 1338
+plankton, 631, 649
+planospiral, 789, 811
+Plantar flexion, 1144
+plantar flexion, 1160
+planuliform, 787, 811
+plasma, 1197, 1215
+plasma cell, 1255, 1275
+plasma membrane, 119,
+141
+plasma membrane hormone
+receptor, 1118
+plasma membrane hormone
+receptors, 1096
+plasmid, 426
+plasmids, 408
+plasmodesma, 141
+plasmodesmata, 137
+plasmogamy, 660, 681
+plasmolysis, 160, 171
+plastid, 623, 649
+platelet, 1215
+platelets, 1197
+Platyrrhini, 844, 853
+Plesiadapis, 844, 853
+pleura, 1181, 1189
+Pleurisy, 1181
+pleurisy, 1189
+plumule, 941, 951
+pneumatic bone, 853
+Pneumatic bones, 838
+point mutation, 399
+Point mutations, 397
+polar covalent bond, 50, 69
+polar nuclei, 929, 951
+pollen grain, 738
+pollen grains, 714
+pollen tube, 716, 738
+pollination, 731, 738, 933,
+951
+poly-A tail, 417, 426, 443,
+450
+polyandrous, 1392
+polyandry, 1399
+Polycarpic, 949
+polycarpic, 951
+polygenic, 473, 479
+Polygynous, 1392
+polygyny, 1399
+polymer, 106
+polymerase chain reaction
+(PCR), 479
+
+polymers, 74
+polymorphic, 776, 811
+polynucleotide, 100, 106
+polyp, 772, 811
+polypeptide, 106
+polyploid, 368, 374
+polysaccharide, 80, 106
+polysome, 420, 426
+polyspermy, 1303, 1311
+polytomy, 532, 551
+Pongo, 845, 853
+population, 28, 35
+population density, 1354,
+1399
+population genetics, 513,
+527
+population growth rate,
+1363, 1399
+population size (N), 1354,
+1399
+population variation, 515,
+528
+Porifera, 768, 811
+positive feedback loop, 973,
+977
+positive gravitropism, 892,
+898
+Positive polarity, 562
+positive polarity, 580
+positive regulator, 433, 450
+post-anal tail, 817, 853
+post-transcriptional, 430,
+450
+post-translational, 430, 450
+posterior pituitary, 1109,
+1118
+postzygotic barrier, 500, 506
+potential energy, 179, 197
+potocytosis, 167, 171
+precapillary sphincter, 1215
+predator, 1349
+predators, 1338
+preinitiation complex, 414,
+426
+presbyopia, 1078, 1085
+prezygotic barrier, 500, 506
+primary (main) bronchi,
+1170
+Primary active transport,
+162
+primary active transport,
+171
+primary bronchus, 1189
+primary consumer, 1430
+primary consumers, 1405
+primary electron acceptor,
+240, 248
+primary feather, 853
+Primary feathers, 837
+primary growth, 865, 898
+
+1512 INDEX
+
+primary producer, 1430
+primary producers, 1405
+primary structure, 95, 106
+primary succession, 1386,
+1399
+primase, 391, 399
+Primates, 844, 853
+primer, 391, 399
+prion, 580
+Prions, 576
+probe, 479
+probes, 459
+product, 69
+product rule, 330, 354
+productive, 566, 580
+products, 48
+Progesterone, 1293
+progesterone, 1311
+prognathic jaw, 853
+prognathic jaws, 847
+progymnosperm, 738
+progymnosperms, 714
+prokaryote, 35, 116, 141
+Prokaryotes, 27
+prolactin (PRL), 1100, 1118
+prolactin-inhibiting hormone,
+1118
+prolactin-inhibiting hormone
+(PIH), 1100
+prolactin-releasing
+hormone, 1118
+prolactin-releasing hormone
+(PRH), 1100
+prometaphase, 286, 301
+promoter, 409, 426
+Pronation, 1144
+pronation, 1160
+proofreading, 395, 399
+prophage, 566, 580
+prophase, 285, 301
+proprioception, 1036, 1052,
+1058, 1085
+prosimian, 853
+Prosimians, 844
+prostate gland, 1287, 1311
+prosthetic group, 212, 225
+protease, 479
+proteases, 456
+proteasome, 445, 450
+protein, 106
+protein signature, 477, 479
+Proteins, 91
+proteome, 476, 479
+proteomics, 476, 479
+proto-oncogene, 301
+proto-oncogenes, 295
+proton, 41, 69
+protonema, 697, 710
+protonephridia, 1230
+protostome, 763
+
+Protostomes, 751
+Protraction, 1144
+protraction, 1160
+proventriculus, 985, 1008
+proximal convoluted tubule
+(PCT), 1225, 1238
+PrPc, 576, 580
+PrPsc, 576, 580
+pseudocoelomate, 763
+pseudocoelomates, 750
+pseudopeptidoglycan, 596,
+614
+pseudostratified, 963, 977
+psychrophile, 614
+pulmocutaneous circulation,
+1197, 1215
+pulmonary circulation, 1196,
+1215
+pump, 171
+pumps, 162
+punctuated equilibrium, 504,
+506
+Punnett square, 333, 354
+pupil, 1085
+pure culture, 474, 479
+purine, 106
+purines, 101
+pyrimidine, 106
+pyrimidines, 101
+pyruvate, 206, 225
+
+Q
+quadrat, 1355, 1399
+quaternary structure, 98,
+106
+quiescent, 287, 301
+quorum sensing, 269, 274
+
+R
+r-selected species, 1370,
+1397
+radial, 751
+radial cleavage, 763
+Radial glia, 1020
+radial glia, 1052
+Radial symmetry, 747
+radial symmetry, 763
+radiate arteries, 1224
+Radiation hybrid mapping,
+468
+radiation hybrid mapping,
+479
+radicle, 941, 951
+radioisotope, 69
+radioisotopes, 42
+radioresistant, 586, 614
+radius, 1131, 1160
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+radula, 788, 811
+raphe, 636, 649
+reactant, 69
+reactants, 48
+reaction center, 239, 248
+reading frame, 405, 426
+reception, 1058, 1085
+receptive, 1058
+receptive field, 1085
+receptor, 274
+receptor potential, 1058,
+1085
+receptor-mediated
+endocytosis, 168, 171
+receptors, 252, 1094
+recessive, 354
+recessive lethal, 342, 354
+Recessive traits, 329
+reciprocal cross, 329, 354
+recombinant DNA, 461, 479
+recombinant protein, 479
+recombinant proteins, 461
+recombination frequency,
+363, 374
+recombination nodules, 309,
+321
+recruitment, 1183, 1189
+rectum, 992, 1008
+red blood cell, 1215
+Red blood cells, 1198
+redox reaction, 225
+redox reactions, 202
+reduction, 243, 248
+reduction division, 315, 321
+reflex action, 1387, 1399
+refractory period, 1025,
+1052
+regulatory T (Treg) cell,
+1275
+regulatory T (Treg) cells,
+1258
+reinforcement, 503, 506
+relative fitness, 521, 528
+Relative species
+abundance, 1383
+relative species abundance,
+1399
+renal arteries, 1224
+renal artery, 1238
+renal capsule, 1223, 1238
+renal column, 1238
+renal columns, 1224
+renal corpuscle, 1224, 1238
+renal fascia, 1223, 1238
+renal pelvis, 1223, 1238
+renal pyramid, 1238
+renal pyramids, 1224
+renal tubule, 1224, 1239
+renal vein, 1239
+
+INDEX 1513
+
+renal veins, 1224
+renin, 1098, 1118
+renin-angiotensin-
+aldosterone, 1235, 1239
+replication fork, 399
+replication forks, 391
+replicative intermediate, 580
+replicative intermediates,
+563
+repressor, 450
+Repressors, 432
+Reproductive cloning, 462
+reproductive cloning, 479
+reproductive isolation, 500,
+506
+Residence time, 1418
+residence time, 1430
+residual volume (RV), 1174,
+1189
+resilience, 1405
+resilience (ecological), 1430
+resistance, 1182, 1189,
+1405
+resistance (ecological),
+1430
+resorption, 1160
+respiratory bronchiole, 1189
+respiratory bronchioles,
+1170
+respiratory distress
+syndrome, 1182, 1189
+respiratory quotient (RQ),
+1175, 1189
+respiratory rate, 1181, 1189
+restriction endonuclease,
+479
+Restriction endonucleases,
+460
+restriction fragment length
+polymorphism (RFLP), 479
+restriction fragment length
+polymorphisms, 467
+restrictive disease, 1189
+restrictive diseases, 1182
+results, 23, 35
+resuscitation, 588, 614
+retina, 1078, 1085
+retinoblastoma protein (Rb),
+294, 301
+Retraction, 1144
+retraction, 1160
+reverse genetics, 480
+reverse transcriptase, 563,
+580
+reverse transcriptase PCR
+(RT-PCR), 459, 480
+reversible chemical
+reaction, 69
+Reversible reactions, 49
+review article, 35
+
+Review articles, 23
+rhizobia, 915, 920
+rhizoids, 697, 710
+rhizome, 867, 899
+rhizosphere, 911, 920
+Rho-dependent termination,
+410, 426
+Rho-independent, 426
+Rho-independent
+termination, 410
+rhodopsin, 1079, 1085
+rhynchocoel, 786, 811
+rib, 1160
+ribonuclease, 480
+ribonucleases, 456
+ribonucleic acid (RNA), 100,
+106
+Ribosomal RNA (rRNA),
+103
+ribosomal RNA (rRNA), 106
+ribosome, 141
+Ribosomes, 122
+ribs, 1129
+ring of life, 549, 551
+RISC, 450
+RNA editing, 416, 426
+RNA stability, 450
+RNA-binding protein (RBP),
+450
+RNA-binding proteins, 443
+RNA-induced silencing
+complex (RISC), 443
+RNAs, 412
+rod, 1085
+rods, 1078
+root cap, 870, 899
+root hair, 899
+Root hairs, 870
+root system, 858, 899
+rooted, 532, 551
+Rotational movement, 1144
+rotational movement, 1160
+rough endoplasmic
+reticulum (RER), 128, 141
+roughage, 986, 1008
+Ruffini ending, 1085
+Ruffini endings, 1064
+ruminant, 1008
+Ruminants, 986
+runner, 899
+Runners, 867
+
+S
+S phase, 284, 301
+S-layer, 595, 614
+S-shaped curve, 1364
+S-shaped growth curve,
+1399
+
+saddle joint, 1161
+Saddle joints, 1147
+sagittal plane, 959, 978
+salamander, 853
+Salamanders, 826
+salivary amylase, 988, 1008
+saltatory conduction, 1026,
+1052
+sand, 910, 920
+saprobe, 681
+saprobes, 657
+saprophyte, 917, 920
+sarcolemma, 1150, 1161
+sarcomere, 1161
+sarcomeres, 1151
+Sarcopterygii, 824, 853
+Sargassum, 1337
+Satellite glia, 1020
+satellite glia, 1052
+saturated fatty acid, 85, 106
+sauropsid, 853
+Sauropsids, 831
+scapula, 1161
+scapulae, 1131
+Scarification, 942
+scarification, 951
+schizocoelom, 779, 811
+schizocoely, 751, 763
+Schizophrenia, 1048
+schizophrenia, 1052
+Schwann cell, 1020, 1052
+Science, 14
+science, 35
+scientific method, 14, 35
+scion, 946, 951
+sclerenchyma cell, 899
+Sclerenchyma cells, 862
+sclerocyte, 811
+sclerocytes, 769
+scrotum, 1286, 1311
+scutellum, 941, 951
+sebaceous gland, 853
+Sebaceous glands, 841
+second messenger, 274
+Second messengers, 263
+Secondary active transport,
+162
+secondary active transport,
+171
+secondary consumer, 1430
+Secondary consumers,
+1405
+secondary feather, 853
+Secondary feathers, 837
+Secondary growth, 865
+secondary growth, 899
+secondary plant compound,
+1460
+secondary plant
+compounds, 1444
+
+1514 INDEX
+
+secondary structure, 96,
+106
+secondary succession,
+1386, 1399
+secretin, 1006, 1008
+seed, 715, 738
+seedless, 688
+Seedless non-vascular
+plants, 688
+seedless vascular plant,
+710
+segmental arteries, 1224
+segmental artery, 1239
+selection pressure, 516
+selective pressure, 528
+selectively permeable, 153,
+171
+Self-pollination, 933
+self-pollination, 951
+Semelparity, 1360
+semelparity, 1399
+Semen, 1287
+semen, 1311
+semi-permeable membrane,
+1239
+semi-permeable
+membranes, 1220
+semicircular canal, 1085
+semicircular canals, 1076
+semilunar valve, 1204, 1215
+seminal vesicle, 1311
+seminal vesicles, 1287
+seminiferous tubule, 1311
+seminiferous tubules, 1286
+senescence, 949, 951
+sensory receptor, 1058,
+1086
+sensory transduction, 1058,
+1086
+sensory-somatic nervous
+system, 1039, 1052
+sepal, 738
+sepals, 724
+septa, 656, 681
+septum, 297, 301, 656
+Sequence mapping , 468
+sequence mapping, 480
+serendipity, 22, 35
+serotype, 606, 614
+Sertoli cell, 1311
+Sertoli cells, 1293
+serum, 1201, 1215
+sesamoid bone, 1161
+Sesamoid bones, 1135
+sessile, 873, 899
+set point, 972, 978
+seta, 698, 710
+seta/chaeta, 812
+setae/chaetae, 793
+sex-linked, 354
+
+sexual dimorphism, 528
+sexual dimorphisms, 524
+sexual reproduction, 1280,
+1311
+shared ancestral character,
+542, 551
+shared derived character,
+542, 552
+Shine-Dalgarno sequence,
+421, 426
+shoot system, 858, 899
+short bone, 1161
+Short bones, 1135
+shotgun sequencing, 471,
+480
+sickle cell anemia, 1185,
+1190
+sieve-tube cell, 899
+sieve-tube cells, 865
+signal, 1399
+signal integration, 262, 274
+signal sequence, 424, 426
+signal transduction, 261,
+274
+signaling cell, 274
+signaling cells, 252
+signaling pathway, 261, 274
+signals, 1389
+silent mutation, 399
+silent mutations, 397
+silt, 910, 920
+simple epithelia, 961, 978
+simple fruit, 943, 951
+simple leaf, 874, 899
+simulation model, 1410,
+1430
+single nucleotide
+polymorphism (SNP), 480
+single nucleotide
+polymorphisms, 467
+single-strand binding
+protein, 399
+Single-strand binding
+proteins, 391
+sink, 899
+sinks, 887
+sinoatrial (SA) node, 1207,
+1215
+siphonophore, 775, 812
+sister taxa, 532, 552
+Skeletal muscle tissue,
+1150
+skeletal muscle tissue, 1161
+skull, 1126, 1161
+sliding clamp, 391, 399
+small 40S ribosomal
+subunit, 450
+small intestine, 990, 1008
+small nuclear , 412
+small nuclear RNA, 426
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+smooth endoplasmic
+reticulum (SER), 128, 141
+smooth muscle, 1161
+Smooth muscle tissue, 1150
+Soil, 909
+soil, 920
+soil profile, 910, 920
+Solar intensity, 1344
+solar intensity, 1349
+solute, 158, 171
+solutes, 156
+solvent, 56, 69
+somatic cell, 308, 321
+somatosensation, 1036,
+1052
+somatostatin, 1006, 1008
+somite, 1311
+somites, 1308
+soredia, 673, 681
+source, 899
+source water, 1340, 1349
+sources, 887
+Southern blotting, 460, 480
+speciation, 496, 506
+species, 495, 506, 534
+species dispersion pattern,
+1399
+Species dispersion patterns,
+1357
+Species richness, 1383
+species richness, 1399
+species-area relationship,
+1442, 1460
+specific heat capacity, 55,
+69
+spectrophotometer, 238,
+248
+spermatheca, 1285, 1311
+spermatogenesis, 1290,
+1311
+spermatophyte, 738
+spermatophytes, 714
+Sphenodontia, 834, 853
+sphere of hydration, 56, 69
+sphincter, 989, 1008
+spicule, 812
+spicules, 769
+spinal cord, 1038, 1052
+spinal nerve, 1052
+Spinal nerves, 1043
+spiral cleavage, 751, 763
+spirometry, 1174, 1190
+splicing, 417, 426
+spongocoel, 768, 812
+spongy bone, 1137
+spongy bone tissue, 1161
+spontaneous mutation, 399
+Spontaneous mutations,
+397
+sporangium, 659, 681
+
+INDEX 1515
+
+spore, 321, 681
+Spores, 308
+spores, 653
+sporocyte, 710
+sporocytes, 688
+sporophyll, 710
+sporophylls, 700
+sporophyte, 319, 321, 923,
+951
+sporopollenin, 688, 710
+spring and fall turnover,
+1325
+Squamata, 835, 853
+squamous epithelia, 978
+Squamous epithelial, 962
+stabilizing selection, 522,
+528
+stamen, 738
+stamens, 725
+standard metabolic rate
+(SMR), 958, 978
+stapes, 1072, 1086
+starch, 75, 106
+start codon, 421, 426
+statolith, 899
+statoliths, 892
+stele, 871, 899
+stereocilia, 1074, 1086
+stereoscopic vision, 844,
+853
+sternum, 1129, 1161
+steroid, 106
+steroids, 90
+stigma, 725, 738
+stipule, 899
+stipules, 873
+stolon, 899
+Stolons, 867
+stoma, 248
+stomach, 989, 1008
+stomata, 232
+stratified epithelia, 961, 978
+Streptophyta, 692
+streptophytes, 710
+strigolactone, 899
+Strigolactones, 895
+Strobili, 700
+strobili, 710
+strobilus, 719, 738
+stroke volume, 1213
+stroke volume>, 1215
+stroma, 232, 248
+stromatolite, 585, 614
+Structural isomers, 62
+structural isomers, 69
+style, 725, 738
+subduction, 1422, 1430
+substituted hydrocarbon, 69
+substituted hydrocarbons,
+64
+
+substrate, 197
+substrate-level
+phosphorylation, 204, 225
+substrates, 190
+sucrase, 1008
+sucrases, 1000
+sulci, 1034
+sulcus, 1052
+sum rule, 331, 354
+summation, 1029, 1052
+superior colliculus, 1083,
+1086
+superior vena cava, 1204,
+1215
+Supination, 1144
+supination, 1161
+suprachiasmatic nucleus,
+1083, 1086
+surface tension, 56, 69
+Surfactant, 1182
+surfactant, 1190
+survivorship curve, 1359,
+1399
+suspensor, 939, 951
+Sutural bones, 1136
+suture, 1161
+suture bone, 1161
+Sutures, 1141
+swim bladder, 824, 853
+symbiont, 917, 920
+symbioses, 1380
+symbiosis, 1399
+sympathetic nervous
+system, 1041, 1052
+Sympatric speciation, 496
+sympatric speciation, 507
+symphyses, 1142
+symphysis, 1161
+symporter, 162, 171
+synapse, 1052
+synapses, 1016
+synapsid, 853
+Synapsids, 831
+synapsis, 309, 321
+synaptic cleft, 1027, 1052
+synaptic signal, 253, 274
+synaptic vesicle, 1052
+synaptic vesicles, 1027
+synaptonemal complex,
+309, 321
+synarthrosis, 1143, 1161
+synchondrosis, 1142, 1161
+Syndesmoses, 1142
+syndesmosis, 1161
+synergid, 929, 951
+synovial joint, 1161
+Synovial joints, 1142
+system, 1006
+systematics, 533, 552
+
+systemic circulation, 1196,
+1215
+Systems biology, 476
+systems biology, 480
+systole, 1206, 1215
+
+T
+T cell, 1275
+T cells, 1248
+Tachyglossidae, 843, 853
+tadpole, 827, 853
+tap root system, 869, 899
+target cell, 274
+target cells, 252
+tarsal, 1161
+tarsals, 1132
+tastant, 1086
+tastants, 1070
+taste bud, 1069, 1086
+TATA box, 426
+taxis, 1388, 1399
+taxon, 535, 552
+Taxonomy, 534
+taxonomy, 552
+TCA cycle, 209, 225
+tectorial membrane, 1073,
+1086
+tegmen, 941, 951
+teichoic acid, 614
+teichoic acids, 595
+telomerase, 394, 399
+telomere, 399
+telomeres, 393
+telophase, 286, 301
+template strand, 408, 426
+temporal, 1036
+temporal fenestra, 853
+Temporal fenestrae, 831
+temporal isolation, 500, 507
+temporal lobe, 1052
+tendril, 899
+Tendrils, 868
+terminal bronchiole, 1190
+terminal bronchioles, 1170
+tertiary consumer, 1430
+Tertiary consumers, 1405
+tertiary structure, 97, 106
+test, 649
+test cross, 335, 354
+testa, 941, 951
+testes, 1286, 1312
+Testosterone, 1293
+testosterone, 1312
+tests, 639
+Testudines, 836, 853
+tetrad, 321
+tetrads, 309
+Tetrapod, 817
+
+1516 INDEX
+
+tetrapod, 853
+thalamus, 1037, 1052
+Thalassemia, 1185
+thalassemia, 1190
+thallus, 656, 681
+theory, 15, 35
+thermocline, 1325, 1349
+Thermodynamics, 184
+thermodynamics, 197
+thermophile, 614
+thermoregulation, 976, 978
+theropod, 853
+theropods, 839
+thick filament, 1161
+Thick filaments, 1151
+Thigmomorphogenesis, 895
+thigmomorphogenesis, 899
+thigmonastic, 895, 899
+thigmotropism, 895, 899
+thin filament, 1161
+Thin filaments, 1151
+thoracic cage, 1129, 1161
+thorn, 899
+Thorns, 868
+threshold of excitation, 1052
+thylakoid, 248
+thylakoid lumen, 232, 248
+thylakoids, 232
+thymus, 1115, 1118
+thyroglobulin, 1103, 1118
+thyroid gland, 1109, 1118
+thyroid-stimulating hormone
+(TSH), 1102, 1118
+thyroxine, 1102
+thyroxine
+(tetraiodothyronine, T4),
+1119
+Ti plasmid, 480
+Ti plasmids, 466
+tibia, 1132, 1161
+Tidal volume (TV), 1174
+tidal volume (TV), 1190
+tight junction, 138, 141
+tissue, 35
+tissues, 27
+tonic activity, 1082, 1086
+Tonicity, 158
+tonicity, 171
+Topoisomerase, 391
+topoisomerase, 399
+Torpor, 959
+torpor, 978
+total lung capacity (TLC),
+1174, 1190
+trabecula, 978
+trabeculae, 967, 1137, 1161
+trachea, 1169, 1190
+tracheid, 899
+Tracheids, 864
+
+tracheophyte, 710
+tracheophytes, 699
+tragedy of the commons,
+1449, 1460
+trait, 328, 354
+trans, 127
+trans fat, 86, 106
+trans-acting element, 449
+transcription, 104, 106
+transcription bubble, 426
+transcription bubble., 408
+transcription factor, 450
+transcription factor binding
+site, 440, 450
+transcription factors, 438
+transcriptional start site,
+433, 450
+transduction, 597, 614
+Transfer RNA (tRNA), 104
+transfer RNA (tRNA), 106
+transformation, 378, 399,
+597, 614
+transgenic, 463, 480
+transition state, 183, 198
+Transition substitution, 397
+transition substitution, 399
+Transitional, 964
+transitional epithelia, 978
+translation, 104, 106
+translocation, 372, 374,
+887, 899
+translocations, 366
+transpiration, 863, 899
+Transpiration, 884
+transport maximum, 1228,
+1239
+transport protein, 171
+transport proteins, 156
+transporter, 171
+transporters, 162
+transverse (horizontal)
+plane, 978
+transverse plane, 959
+Transversion substitution,
+397
+transversion substitution,
+400
+triacylglycerol (also,
+triglyceride), 106
+triacylglycerols, 85
+trichome, 899
+Trichomes, 863
+tricuspid valve, 1204, 1215
+triglycerides, 85
+triiodothyronine, 1102
+triiodothyronine (T3), 1119
+triploblast, 763
+triploblasts, 749
+trisomy, 367, 374
+
+This content is available for free at http://cnx.org/content/col11448/1.9
+
+trochophore, 788, 812
+trophic level, 1405, 1430
+trophic level transfer
+efficiency (TLTE), 1414,
+1430
+trophoblast, 1304, 1312
+Tropomyosin, 1155
+tropomyosin, 1161
+Troponin, 1155
+troponin, 1161
+trp operon, 450
+trypsin, 1000, 1008
+Tryptophan, 432
+tryptophan, 450
+tryptophan (trp) operon, 432
+tuber, 899
+Tubers, 867
+tubular reabsorption, 1226,
+1239
+tubular secretion, 1226,
+1239
+tumor suppressor gene, 301
+Tumor suppressor genes,
+295
+tunicate, 854
+tunicates, 818
+tympanum, 1072, 1086
+
+U
+ubiquinone, 212, 225
+ulna, 1131, 1161
+ultrasound, 1072, 1086
+umami, 1067, 1086
+unidirectional circulation,
+1215
+unidirectionally, 1194
+unified cell theory, 114, 141
+uniporter, 162, 171
+uniramous, 803, 812
+unsaturated, 85
+unsaturated fatty acid, 106
+untranslated region, 450
+untranslated regions, 443
+up-regulation, 1094, 1119
+upstream, 408, 426
+urea cycle, 1232, 1239
+ureotelic, 1232, 1239
+ureter, 1224, 1239
+uric acid, 1233, 1239
+urinary bladder, 1224, 1239
+urine, 1223, 1239
+Urochordata, 818, 854
+Urodela, 826, 854
+uterus, 1289, 1312
+
+V
+vaccine, 580
+
+Vaccines, 571
+vacuole, 141
+vacuoles, 123
+vagina, 1290, 1312
+valence shell, 45, 69
+van der Waals interaction,
+69
+van der Waals interactions,
+52
+variable, 17, 35
+variable number of tandem
+repeats (VNTRs), 480
+variants, 337
+variation, 489, 507
+vasa recta, 1225, 1239
+vascular bundle, 859, 900
+vascular cylinder, 859
+vascular plant, 710
+vascular plants, 688
+vascular stele, 859, 900
+vascular tissue, 859, 900
+vasoconstriction, 1209,
+1215
+vasodilation, 1209, 1215
+vasodilator, 1236, 1239
+vasopressin, 1236, 1239
+vein, 700, 710, 1215
+Veins, 1208
+veliger, 788, 812
+vena cava, 1216
+venation, 873, 900
+venous PCO2
+venous PO2
+venous PO2
+ventilation/perfusion (V/Q)
+mismatch, 1183, 1190
+ventral cavity, 960, 978
+ventricle, 1052, 1197, 1216
+ventricles, 1033
+venule, 1216
+venules, 1208
+vernalization, 942, 951
+vertebral column, 819, 854,
+1128, 1162
+Vertebrata, 819, 854
+vertical transmission, 569,
+580
+vesicle, 141
+Vesicles, 123
+vessel element, 900
+Vessel elements, 864
+Vestibular sensation, 1058
+vestibular sense, 1086
+vestigial structure, 507
+vestigial structures, 491
+viable-but-non-culturable,
+588
+
+, 1190
+, 1176
+
+, 1176, 1190
+
+INDEX 1517
+
+zona pellucida, 1303, 1312
+Zoology, 33
+zoology, 35
+zoonoses, 603
+zoonosis, 614
+Zygomycota, 661, 681
+zygospore, 681
+zygospores, 661
+
+viable-but-non-culturable
+(VBNC) state, 614
+vicariance, 497, 507
+villi, 990, 1008
+viral receptor, 580
+viral receptors, 557
+virion, 580
+Virions, 556
+viroid, 580
+Viroids, 576
+virus core, 559, 580
+Vision, 1077
+vision, 1086
+vital capacity (VC), 1174
+vitamin, 1008
+Vitamins, 994
+viviparity, 1285, 1312
+
+W
+Water potential, 881
+water potential (Ψw), 900
+water vascular system, 807,
+812
+wavelength, 235, 248
+Wax, 88
+wax, 107
+weather, 1342, 1349
+web of life, 548, 552
+whisk fern, 710
+whisk ferns, 702
+white blood cell, 1216
+white blood cells, 1197
+white-nose syndrome, 1452,
+1460
+Whole-genome sequencing,
+469
+whole-genome sequencing,
+480
+whorled, 874, 900
+wild type, 337
+
+X
+X inactivation, 369, 374
+X-linked, 340, 354
+Xylem, 699
+xylem, 710
+
+Y
+yeast, 681
+yeasts, 656
+
+Z
+zero population growth,
+1364, 1399
+zoea, 804, 812
+
+

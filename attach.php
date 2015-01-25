@@ -19,8 +19,7 @@
     <div class="row">
       <div class="col-md-6">
         <?php
-        chdir('uploads');	
-foreach (glob("*.txt") as $filename) {
+foreach (glob("transcript.txt") as $filename) {
 	$myfile = fopen($filename, "r") or die("Unable to open file!");
 	$filedata = fread($myfile, filesize($filename));
 	echo '<h2>'.$filename.'</h2><div class="well well-lg" style="opacity:.7"><h4>'. $filedata .
