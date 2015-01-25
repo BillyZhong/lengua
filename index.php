@@ -1,3 +1,9 @@
+<?php
+chdir('uploads');
+foreach (glob("*.txt") as $filename) {
+	unlink($filename);
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

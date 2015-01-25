@@ -19,29 +19,27 @@
     <div class="row">
       <div class="col-md-6">
         <?php
-        chdir('uploads');
+        chdir('uploads');	
 foreach (glob("*.txt") as $filename) {
-	$fileo = $filename;
-	echo $fileo;
-	$myfile = fopen($fileo, "r") or die("Unable to open file!");
-	echo fread($myfile,filesize($fileo));
+	$myfile = fopen($filename, "r") or die("Unable to open file!");
+	$filedata = fread($myfile, filesize($filename));
+	echo '<h2>'.$filename.'</h2><div class="well well-lg" style="opacity:.7"><h4>'. $filedata .
+'</h4></div>';
 	fclose($myfile);
-	echo $filename .'<div class="well well-lg" style="color:#F5F5F5;opacity:.7"><h4 type="text/plain">uploads/'.$filename  .'
-</h4></div>';
 }
 ?>
 
       </div>
       <div class="col-md-6">
  <form action="submitexternal.php" method="post" enctype="multipart/form-data">
-    <input type="file"  class="btn btn-primary" id="file" name="files[]" multiple="" accept=".pdf" />
-<center><p>Attach pdf of textbook</p></center>
-        <input type="file" class="btn btn-primary" id="file" name="files[]" multiple="" accept=".pdf" />
-<center><p>Attach pdf of powerpoint</p></center>
+    	<label for="textbook">Attach pdf of textbook</label>
+	<input type="file"  class="btn btn-primary" id="textbook" name="files[]" multiple="" accept=".pdf" />
+	<label for="powerpoint">Attach powerpoint</label>
+        <input type="file" class="btn btn-primary" id="powerpoint" name="files[]" multiple="" accept=".pdf" />
 <br>
-<center>Enter first page number of Glossary:<br></center>
 <div class="col-md-7">
-<input type = "text" class="form-control" name = "glossaryNum">
+<label for="glossaryNum">Enter first page number of Glossary</label>
+<input type = "text" class="form-control" name = "glossaryNum" id="glossaryNum">
 </div>
 <br>
 <div class="col-md-12">
