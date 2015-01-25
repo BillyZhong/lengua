@@ -24,5 +24,5 @@ if ($uploadOk == 0) {
         echo "Sorry, there was an error uploading your file.";
     }
 }
-header( 'Location: attach.html') ; 
+header( 'Location: attach.php') ; 
 ?>

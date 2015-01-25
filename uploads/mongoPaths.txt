@@ -1,0 +1,11 @@
+sc.exe create MongoDB binPath= "\"C:\MongoDB\mongod.exe\" --service --config=\"C:\MongoDB\mongod.cfg\"" DisplayName= "MongoDB" start= "auto"
+
+C:\MongoDB\mongod --service  --rest  --master  --logpath=C:\data\log\mongolog.txt  --dbpath=C:\data\db
+
+http://www.webiyo.com/2011/02/install-mongodb-service-on-windows-7.html
+
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+
+http://docs.mongodb.org/manual/tutorial/getting-started/
+
+http://docs.mongodb.org/manual/reference/default-mongodb-port/

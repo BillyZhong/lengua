@@ -21,5 +21,11 @@ if(isset($_POST) and $_SERVER['REQUEST_METHOD'] == "POST"){
 	    }
 	}
 }
-exec('python /var/www/html/sandwich/pdfreference/readppt.py');
+$output = null; 
+chdir('pdfreference');
+exec('sudo python full_text_to_summarize.py bioterms.txt')
+exec('sudo python readppt.py', $output, $return); 
+exec('sudo python test.py', $output, $return); 
+
+chdir('/var/www/html/sandwich/');
 ?>  
