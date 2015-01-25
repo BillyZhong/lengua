@@ -5,7 +5,7 @@ import pyPdf
 
 def getPDFContent(path):
     content = ""
-    num_pages = 10
+    num_pages = 21
     p = file(path, "rb")
     pdf = pyPdf.PdfFileReader(p)
     for i in range(0, num_pages):

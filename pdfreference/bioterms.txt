@@ -12,3 +12,5 @@ phosphate
 nucleotides
 phenotype
 myofibril
+endergon
+Endemic
