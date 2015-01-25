@@ -1,4 +1,13 @@
 
+from __future__ import absolute_import
+from __future__ import division, print_function, unicode_literals
+
+from sumy.parsers.html import HtmlParser
+from sumy.parsers.plaintext import PlaintextParser
+from sumy.nlp.tokenizers import Tokenizer
+from sumy.summarizers.lsa import LsaSummarizer as Summarizer
+from sumy.nlp.stemmers import Stemmer
+from sumy.utils import get_stop_words
 # coding: utf-8
 
 # In[113]:
@@ -7,6 +16,7 @@ from gensim import corpora, models, similarities
 from gensim.models import hdpmodel, ldamodel
 from itertools import izip
 import pickle
+import sys
 
 
 # In[114]:
@@ -125,15 +135,6 @@ def strip_html(url):
 
 # In[129]:
 
-from __future__ import absolute_import
-from __future__ import division, print_function, unicode_literals
-
-from sumy.parsers.html import HtmlParser
-from sumy.parsers.plaintext import PlaintextParser
-from sumy.nlp.tokenizers import Tokenizer
-from sumy.summarizers.lsa import LsaSummarizer as Summarizer
-from sumy.nlp.stemmers import Stemmer
-from sumy.utils import get_stop_words
 
 
 # In[130]:
@@ -165,12 +166,12 @@ import nltk
 def summarize_url(url, sentences):
     text = strip_html(url)
     ss = summarize.SimpleSummarizer()
-    print ss.summarize(text, sentences)
+    print (ss.summarize(text, sentences))
 
 
 # In[158]:
 
-def full_function(filename, num_topics=5, num_sentences_for_each_resource=2):
+def main(filename, num_topics=5, num_sentences_for_each_resource=2):
     #### First get the topics from the text file, 5 topics
     doc_topics = return_topics(filename, num_topics)
     print ("The main topics we were able to extract out of this article were")
@@ -193,7 +194,8 @@ def full_function(filename, num_topics=5, num_sentences_for_each_resource=2):
         print ('\n')
 
 
-
+if __name__ == "__main__":
+    main(sys.argv)
 # In[158]:
 
 

@@ -21,8 +21,13 @@
         <?php
         chdir('uploads');
 foreach (glob("*.txt") as $filename) {
-    echo 'Filename = '.$filename .'<br><object type="text/plain" data="uploads/'.$filename  .'" border="0">
-</object>';
+	$fileo = $filename;
+	echo $fileo;
+	$myfile = fopen($fileo, "r") or die("Unable to open file!");
+	echo fread($myfile,filesize($fileo));
+	fclose($myfile);
+	echo $filename .'<div class="well well-lg" style="color:#F5F5F5;opacity:.7"><h4 type="text/plain">uploads/'.$filename  .'
+</h4></div>';
 }
 ?>
 
